@@ -19,22 +19,13 @@ Star Schema Data Modelling : fact and dimension table design with verified refer
 
 Overall Attainment: Total attainment across the 12-rep team for 2024 sits below 100%, with significant variation in consistency across reps and months rather than a uniform shortfall.
 
-Top and Bottom Performers:
+Top and Bottom Performers: Fatima Aliyu closed the year at the highest annual attainment rate among all reps, while Tunde Fashola recorded the lowest. The performance gap between top and bottom reps is substantial enough to warrant a closer look at territory assignment and target-setting methodology.
 
-Fatima Aliyu closed the year at the highest annual attainment rate among all reps, while Tunde Fashola recorded the lowest. The performance gap between top and bottom reps is substantial enough to warrant a closer look at territory assignment and target-setting methodology.
+Consistency Over Capability: 10 of 12 reps hit their monthly target at least once during the year, but very few hit it consistently across multiple consecutive months. This reframes the underperformance narrative: the team has demonstrated the capability to hit target, but something pipeline timing, seasonality, or target calibration is preventing consistent delivery month over month.
 
-Consistency Over Capability:
+Category Performance: Services is the strongest revenue-generating category, followed by Software, with Cloud trailing as the smallest contributor informing where sales enablement and incentive focus might be most impactful.
 
-10 of 12 reps hit their monthly target at least once during the year, but very few hit it consistently across multiple consecutive months. This reframes the underperformance narrative: the team has demonstrated the capability to hit target, but something pipeline timing, seasonality, or target calibration is preventing consistent delivery month over month.
-
-Category Performance:
-
-Services is the strongest revenue-generating category, followed by Software, with Cloud trailing as the smallest contributor informing where sales enablement and incentive focus might be most impactful.
-
-
-Seasonal Pattern:
-
-Q4 shows the strongest revenue quarter of the year, consistent with end-of-year budget cycles common in B2B technology sales, while Q2 is comparatively the weakest.
+Seasonal Pattern: Q4 shows the strongest revenue quarter of the year, consistent with end-of-year budget cycles common in B2B technology sales, while Q2 is comparatively the weakest.
 
 # Recommendations
 
