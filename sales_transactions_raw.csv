@@ -1,0 +1,785 @@
+deal_id,deal_date,month,quarter,rep_id,rep_name,region,team,product_id,product_name,category,customer_segment,channel,quantity,unit_price,discount_pct,deal_value
+DL1000,2024-01-06,2024-01,Q1,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD007,POS Terminal,Hardware,SME,Referral,4,75000,0.08,276000.0
+DL1001,2024-01-13,2024-01,Q1,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD003,Data Backup Pro,Cloud,Enterprise,Inbound,1,60000,0.09,54600.0
+DL1002,2024-01-19,2024-01,Q1,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD004,Cloud Hosting,Cloud,SME,Partner,4,45000,0.16,151200.0
+DL1003,2024-01-22,2024-01,Q1,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD007,POS Terminal,Hardware,SME,Partner,2,75000,0.07,139500.0
+DL1004,2024-01-03,2024-01,Q1,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD002,Payroll Manager,Software,Government,Partner,5,85000,0.15,361200.0
+DL1005,2024-01-01,2024-01,Q1,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD007,POS Terminal,Hardware,Government,Referral,1,75000,0.09,68200.0
+DL1006,2024-02-17,2024-02,Q1,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD006,Cybersecurity Pkg,Services,SME,Inbound,5,200000,0.06,940000.0
+DL1007,2024-02-23,2024-02,Q1,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD001,CRM Suite,Software,SME,Inbound,3,150000,0.07,418500.0
+DL1008,2024-02-02,2024-02,Q1,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD003,Data Backup Pro,Cloud,Enterprise,Direct,5,60000,0.15,255000.0
+DL1009,2024-03-14,2024-03,Q1,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD003,Data Backup Pro,Cloud,Enterprise,Inbound,4,60000,0.15,204000.0
+DL1010,2024-03-01,2024-03,Q1,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD002,Payroll Manager,Software,Government,Partner,2,85000,0.1,153000.0
+DL1011,2024-03-26,2024-03,Q1,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD003,Data Backup Pro,Cloud,Enterprise,Referral,5,60000,0.11,267000.0
+DL1012,2024-03-27,2024-03,Q1,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD008,Network Setup,Hardware,SME,Partner,3,95000,0.13,248000.0
+DL1013,2024-03-28,2024-03,Q1,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD008,Network Setup,Hardware,SME,Inbound,1,95000,0.07,88400.0
+DL1014,2024-03-10,2024-03,Q1,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD002,Payroll Manager,Software,SME,Referral,1,85000,0.07,79000.0
+DL1015,2024-03-18,2024-03,Q1,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD007,POS Terminal,Hardware,Startup,Inbound,2,75000,0.19,121500.0
+DL1016,2024-04-27,2024-04,Q2,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD004,Cloud Hosting,Cloud,Startup,Referral,3,45000,0.07,125500.0
+DL1017,2024-04-19,2024-04,Q2,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD002,Payroll Manager,Software,Enterprise,Partner,5,85000,0.09,386800.0
+DL1018,2024-04-27,2024-04,Q2,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD004,Cloud Hosting,Cloud,Government,Inbound,4,45000,0.11,160200.0
+DL1019,2024-04-06,2024-04,Q2,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD007,POS Terminal,Hardware,Enterprise,Partner,3,75000,0.13,195800.0
+DL1020,2024-04-28,2024-04,Q2,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD007,POS Terminal,Hardware,SME,Partner,4,75000,0.08,276000.0
+DL1021,2024-04-26,2024-04,Q2,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD002,Payroll Manager,Software,SME,Inbound,3,85000,0.08,234600.0
+DL1022,2024-04-03,2024-04,Q2,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD005,IT Support Plan,Services,Government,Inbound,4,120000,0.16,403200.0
+DL1023,2024-05-22,2024-05,Q2,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD005,IT Support Plan,Services,Startup,Inbound,1,120000,0.13,104400.0
+DL1024,2024-05-10,2024-05,Q2,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD003,Data Backup Pro,Cloud,Government,Referral,3,60000,0.11,160200.0
+DL1025,2024-05-20,2024-05,Q2,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD005,IT Support Plan,Services,Government,Referral,4,120000,0.15,408000.0
+DL1026,2024-05-12,2024-05,Q2,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD007,POS Terminal,Hardware,Enterprise,Partner,3,75000,0.18,184500.0
+DL1027,2024-05-22,2024-05,Q2,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD005,IT Support Plan,Services,SME,Partner,2,120000,0.18,196800.0
+DL1028,2024-06-28,2024-06,Q2,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD007,POS Terminal,Hardware,Startup,Inbound,2,75000,0.11,133500.0
+DL1029,2024-06-07,2024-06,Q2,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD001,CRM Suite,Software,Enterprise,Partner,1,150000,0.13,130500.0
+DL1030,2024-06-15,2024-06,Q2,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD003,Data Backup Pro,Cloud,SME,Partner,5,60000,0.17,249000.0
+DL1031,2024-06-21,2024-06,Q2,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD007,POS Terminal,Hardware,Startup,Referral,4,75000,0.13,261000.0
+DL1032,2024-06-03,2024-06,Q2,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD001,CRM Suite,Software,Enterprise,Direct,1,150000,0.17,124500.0
+DL1033,2024-06-18,2024-06,Q2,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD007,POS Terminal,Hardware,Startup,Referral,3,75000,0.11,200200.0
+DL1034,2024-06-06,2024-06,Q2,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD002,Payroll Manager,Software,Startup,Inbound,4,85000,0.11,302600.0
+DL1035,2024-07-15,2024-07,Q3,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD006,Cybersecurity Pkg,Services,Government,Inbound,2,200000,0.18,328000.0
+DL1036,2024-07-09,2024-07,Q3,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD003,Data Backup Pro,Cloud,Government,Inbound,3,60000,0.09,163800.0
+DL1037,2024-07-21,2024-07,Q3,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD003,Data Backup Pro,Cloud,Government,Referral,4,60000,0.14,206400.0
+DL1038,2024-07-15,2024-07,Q3,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD002,Payroll Manager,Software,Enterprise,Direct,5,85000,0.09,386800.0
+DL1039,2024-07-21,2024-07,Q3,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD006,Cybersecurity Pkg,Services,Enterprise,Partner,4,200000,0.06,752000.0
+DL1040,2024-07-09,2024-07,Q3,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD001,CRM Suite,Software,SME,Referral,5,150000,0.1,675000.0
+DL1041,2024-07-11,2024-07,Q3,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD001,CRM Suite,Software,SME,Partner,4,150000,0.06,564000.0
+DL1042,2024-07-25,2024-07,Q3,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD003,Data Backup Pro,Cloud,Government,Referral,4,60000,0.06,225600.0
+DL1043,2024-08-09,2024-08,Q3,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD004,Cloud Hosting,Cloud,Startup,Partner,1,45000,0.12,39600.0
+DL1044,2024-08-25,2024-08,Q3,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD002,Payroll Manager,Software,SME,Partner,5,85000,0.19,344200.0
+DL1045,2024-08-27,2024-08,Q3,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD002,Payroll Manager,Software,SME,Referral,1,85000,0.16,71400.0
+DL1046,2024-09-21,2024-09,Q3,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD002,Payroll Manager,Software,Government,Referral,1,85000,0.16,71400.0
+DL1047,2024-09-25,2024-09,Q3,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD006,Cybersecurity Pkg,Services,SME,Partner,2,200000,0.14,344000.0
+DL1048,2024-09-14,2024-09,Q3,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD001,CRM Suite,Software,SME,Partner,3,150000,0.17,373500.0
+DL1049,2024-09-21,2024-09,Q3,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD003,Data Backup Pro,Cloud,Enterprise,Referral,1,60000,0.07,55800.0
+DL1050,2024-09-08,2024-09,Q3,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD007,POS Terminal,Hardware,Government,Direct,1,75000,0.17,62200.0
+DL1051,2024-09-12,2024-09,Q3,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD003,Data Backup Pro,Cloud,Startup,Partner,2,60000,0.17,99600.0
+DL1052,2024-09-10,2024-09,Q3,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD001,CRM Suite,Software,SME,Referral,5,150000,0.11,667500.0
+DL1053,2024-09-10,2024-09,Q3,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD001,CRM Suite,Software,Startup,Direct,3,150000,0.17,373500.0
+DL1054,2024-10-02,2024-10,Q4,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD008,Network Setup,Hardware,Startup,Referral,4,95000,0.17,315400.0
+DL1055,2024-10-26,2024-10,Q4,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD006,Cybersecurity Pkg,Services,Enterprise,Inbound,3,200000,0.15,510000.0
+DL1056,2024-10-05,2024-10,Q4,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD005,IT Support Plan,Services,Enterprise,Partner,5,120000,0.08,552000.0
+DL1057,2024-10-25,2024-10,Q4,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD007,POS Terminal,Hardware,SME,Referral,4,75000,0.13,261000.0
+DL1058,2024-10-21,2024-10,Q4,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD007,POS Terminal,Hardware,Startup,Referral,1,75000,0.08,69000.0
+DL1059,2024-10-01,2024-10,Q4,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD002,Payroll Manager,Software,SME,Referral,4,85000,0.05,323000.0
+DL1060,2024-10-09,2024-10,Q4,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD003,Data Backup Pro,Cloud,SME,Inbound,3,60000,0.06,169200.0
+DL1061,2024-10-02,2024-10,Q4,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD003,Data Backup Pro,Cloud,Government,Inbound,1,60000,0.19,48600.0
+DL1062,2024-11-11,2024-11,Q4,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD002,Payroll Manager,Software,Government,Referral,2,85000,0.14,146200.0
+DL1063,2024-11-17,2024-11,Q4,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD008,Network Setup,Hardware,SME,Referral,5,95000,0.06,446500.0
+DL1064,2024-11-04,2024-11,Q4,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD008,Network Setup,Hardware,Government,Referral,2,95000,0.16,159600.0
+DL1065,2024-11-08,2024-11,Q4,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD003,Data Backup Pro,Cloud,SME,Partner,2,60000,0.12,105600.0
+DL1066,2024-11-17,2024-11,Q4,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD003,Data Backup Pro,Cloud,Enterprise,Referral,5,60000,0.15,255000.0
+DL1067,2024-11-23,2024-11,Q4,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD004,Cloud Hosting,Cloud,Government,Inbound,5,45000,0.08,207000.0
+DL1068,2024-11-25,2024-11,Q4,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD002,Payroll Manager,Software,Startup,Inbound,2,85000,0.09,154700.0
+DL1069,2024-11-01,2024-11,Q4,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD004,Cloud Hosting,Cloud,Enterprise,Inbound,1,45000,0.17,37400.0
+DL1070,2024-12-02,2024-12,Q4,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD001,CRM Suite,Software,Startup,Referral,3,150000,0.08,414000.0
+DL1071,2024-12-17,2024-12,Q4,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD005,IT Support Plan,Services,Startup,Referral,3,120000,0.05,342000.0
+DL1072,2024-12-13,2024-12,Q4,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD006,Cybersecurity Pkg,Services,SME,Partner,1,200000,0.07,186000.0
+DL1073,2024-12-01,2024-12,Q4,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD005,IT Support Plan,Services,Startup,Referral,2,120000,0.12,211200.0
+DL1074,2024-12-28,2024-12,Q4,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD003,Data Backup Pro,Cloud,Government,Direct,5,60000,0.06,282000.0
+DL1075,2024-12-08,2024-12,Q4,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD006,Cybersecurity Pkg,Services,SME,Direct,3,200000,0.18,492000.0
+DL1076,2024-12-08,2024-12,Q4,REP001,Chukwuemeka Obi,Lagos,Enterprise,PRD001,CRM Suite,Software,Startup,Partner,1,150000,0.08,138000.0
+DL1077,2024-01-22,2024-01,Q1,REP002,Amina Bello,Abuja,SME,PRD002,Payroll Manager,Software,Government,Direct,1,85000,0.05,80800.0
+DL1078,2024-01-13,2024-01,Q1,REP002,Amina Bello,Abuja,SME,PRD006,Cybersecurity Pkg,Services,Startup,Partner,4,200000,0.05,760000.0
+DL1079,2024-01-08,2024-01,Q1,REP002,Amina Bello,Abuja,SME,PRD006,Cybersecurity Pkg,Services,Enterprise,Direct,1,200000,0.03,194000.0
+DL1080,2024-01-04,2024-01,Q1,REP002,Amina Bello,Abuja,SME,PRD004,Cloud Hosting,Cloud,Startup,Partner,3,45000,0.04,129600.0
+DL1081,2024-01-15,2024-01,Q1,REP002,Amina Bello,Abuja,SME,PRD004,Cloud Hosting,Cloud,Enterprise,Partner,2,45000,0.05,85500.0
+DL1082,2024-01-01,2024-01,Q1,REP002,Amina Bello,Abuja,SME,PRD002,Payroll Manager,Software,Startup,Inbound,4,85000,0.01,336600.0
+DL1083,2024-01-25,2024-01,Q1,REP002,Amina Bello,Abuja,SME,PRD008,Network Setup,Hardware,Startup,Referral,4,95000,0.1,342000.0
+DL1084,2024-02-07,2024-02,Q1,REP002,Amina Bello,Abuja,SME,PRD002,Payroll Manager,Software,Enterprise,Partner,3,85000,0.05,242200.0
+DL1085,2024-02-20,2024-02,Q1,REP002,Amina Bello,Abuja,SME,PRD008,Network Setup,Hardware,Enterprise,Direct,4,95000,0.04,364800.0
+DL1086,2024-02-05,2024-02,Q1,REP002,Amina Bello,Abuja,SME,PRD001,CRM Suite,Software,Government,Referral,5,150000,0.01,742500.0
+DL1087,2024-02-01,2024-02,Q1,REP002,Amina Bello,Abuja,SME,PRD007,POS Terminal,Hardware,Enterprise,Partner,5,75000,0.07,348800.0
+DL1088,2024-02-04,2024-02,Q1,REP002,Amina Bello,Abuja,SME,PRD004,Cloud Hosting,Cloud,Enterprise,Inbound,2,45000,0.08,82800.0
+DL1089,2024-02-27,2024-02,Q1,REP002,Amina Bello,Abuja,SME,PRD005,IT Support Plan,Services,Startup,Referral,2,120000,0.1,216000.0
+DL1090,2024-03-06,2024-03,Q1,REP002,Amina Bello,Abuja,SME,PRD007,POS Terminal,Hardware,Government,Inbound,1,75000,0.04,72000.0
+DL1091,2024-03-17,2024-03,Q1,REP002,Amina Bello,Abuja,SME,PRD002,Payroll Manager,Software,Startup,Partner,1,85000,0.03,82400.0
+DL1092,2024-03-02,2024-03,Q1,REP002,Amina Bello,Abuja,SME,PRD003,Data Backup Pro,Cloud,Enterprise,Partner,3,60000,0.09,163800.0
+DL1093,2024-03-10,2024-03,Q1,REP002,Amina Bello,Abuja,SME,PRD008,Network Setup,Hardware,Government,Referral,4,95000,0.02,372400.0
+DL1094,2024-04-09,2024-04,Q2,REP002,Amina Bello,Abuja,SME,PRD005,IT Support Plan,Services,SME,Inbound,4,120000,0.03,465600.0
+DL1095,2024-04-17,2024-04,Q2,REP002,Amina Bello,Abuja,SME,PRD005,IT Support Plan,Services,SME,Referral,2,120000,0.02,235200.0
+DL1096,2024-04-08,2024-04,Q2,REP002,Amina Bello,Abuja,SME,PRD006,Cybersecurity Pkg,Services,Government,Referral,5,200000,0.06,940000.0
+DL1097,2024-04-24,2024-04,Q2,REP002,Amina Bello,Abuja,SME,PRD001,CRM Suite,Software,Government,Direct,3,150000,0.09,409500.0
+DL1098,2024-04-15,2024-04,Q2,REP002,Amina Bello,Abuja,SME,PRD001,CRM Suite,Software,Enterprise,Direct,4,150000,0.01,594000.0
+DL1099,2024-04-03,2024-04,Q2,REP002,Amina Bello,Abuja,SME,PRD001,CRM Suite,Software,SME,Partner,2,150000,0.1,270000.0
+DL1100,2024-04-09,2024-04,Q2,REP002,Amina Bello,Abuja,SME,PRD004,Cloud Hosting,Cloud,Startup,Referral,1,45000,0.02,44100.0
+DL1101,2024-05-11,2024-05,Q2,REP002,Amina Bello,Abuja,SME,PRD004,Cloud Hosting,Cloud,Enterprise,Referral,1,45000,0.07,41800.0
+DL1102,2024-05-02,2024-05,Q2,REP002,Amina Bello,Abuja,SME,PRD005,IT Support Plan,Services,Government,Partner,4,120000,0.04,460800.0
+DL1103,2024-05-07,2024-05,Q2,REP002,Amina Bello,Abuja,SME,PRD008,Network Setup,Hardware,Startup,Referral,5,95000,0.07,441700.0
+DL1104,2024-05-18,2024-05,Q2,REP002,Amina Bello,Abuja,SME,PRD001,CRM Suite,Software,SME,Referral,3,150000,0.08,414000.0
+DL1105,2024-05-20,2024-05,Q2,REP002,Amina Bello,Abuja,SME,PRD007,POS Terminal,Hardware,Startup,Referral,4,75000,0.12,264000.0
+DL1106,2024-05-19,2024-05,Q2,REP002,Amina Bello,Abuja,SME,PRD005,IT Support Plan,Services,Startup,Referral,1,120000,0.0,120000.0
+DL1107,2024-06-18,2024-06,Q2,REP002,Amina Bello,Abuja,SME,PRD003,Data Backup Pro,Cloud,Startup,Partner,4,60000,0.01,237600.0
+DL1108,2024-06-23,2024-06,Q2,REP002,Amina Bello,Abuja,SME,PRD006,Cybersecurity Pkg,Services,Enterprise,Partner,2,200000,0.07,372000.0
+DL1109,2024-06-21,2024-06,Q2,REP002,Amina Bello,Abuja,SME,PRD001,CRM Suite,Software,SME,Direct,3,150000,0.05,427500.0
+DL1110,2024-06-14,2024-06,Q2,REP002,Amina Bello,Abuja,SME,PRD003,Data Backup Pro,Cloud,Government,Partner,1,60000,0.06,56400.0
+DL1111,2024-07-07,2024-07,Q3,REP002,Amina Bello,Abuja,SME,PRD007,POS Terminal,Hardware,Startup,Referral,3,75000,0.01,222800.0
+DL1112,2024-07-01,2024-07,Q3,REP002,Amina Bello,Abuja,SME,PRD002,Payroll Manager,Software,Startup,Inbound,3,85000,0.08,234600.0
+DL1113,2024-07-04,2024-07,Q3,REP002,Amina Bello,Abuja,SME,PRD006,Cybersecurity Pkg,Services,Startup,Partner,5,200000,0.03,970000.0
+DL1114,2024-07-27,2024-07,Q3,REP002,Amina Bello,Abuja,SME,PRD007,POS Terminal,Hardware,SME,Partner,2,75000,0.02,147000.0
+DL1115,2024-07-09,2024-07,Q3,REP002,Amina Bello,Abuja,SME,PRD001,CRM Suite,Software,SME,Referral,5,150000,0.06,705000.0
+DL1116,2024-07-09,2024-07,Q3,REP002,Amina Bello,Abuja,SME,PRD007,POS Terminal,Hardware,Startup,Inbound,5,75000,0.07,348800.0
+DL1117,2024-07-12,2024-07,Q3,REP002,Amina Bello,Abuja,SME,PRD007,POS Terminal,Hardware,Enterprise,Inbound,1,75000,0.1,67500.0
+DL1118,2024-07-16,2024-07,Q3,REP002,Amina Bello,Abuja,SME,PRD004,Cloud Hosting,Cloud,Startup,Referral,4,45000,0.08,165600.0
+DL1119,2024-07-26,2024-07,Q3,REP002,Amina Bello,Abuja,SME,PRD001,CRM Suite,Software,Enterprise,Partner,2,150000,0.05,285000.0
+DL1120,2024-08-18,2024-08,Q3,REP002,Amina Bello,Abuja,SME,PRD003,Data Backup Pro,Cloud,Enterprise,Direct,3,60000,0.09,163800.0
+DL1121,2024-08-01,2024-08,Q3,REP002,Amina Bello,Abuja,SME,PRD001,CRM Suite,Software,Government,Referral,2,150000,0.09,273000.0
+DL1122,2024-08-01,2024-08,Q3,REP002,Amina Bello,Abuja,SME,PRD008,Network Setup,Hardware,SME,Direct,4,95000,0.08,349600.0
+DL1123,2024-08-14,2024-08,Q3,REP002,Amina Bello,Abuja,SME,PRD004,Cloud Hosting,Cloud,SME,Referral,2,45000,0.12,79200.0
+DL1124,2024-08-01,2024-08,Q3,REP002,Amina Bello,Abuja,SME,PRD008,Network Setup,Hardware,Enterprise,Partner,3,95000,0.1,256500.0
+DL1125,2024-08-19,2024-08,Q3,REP002,Amina Bello,Abuja,SME,PRD001,CRM Suite,Software,Government,Partner,1,150000,0.08,138000.0
+DL1126,2024-08-12,2024-08,Q3,REP002,Amina Bello,Abuja,SME,PRD008,Network Setup,Hardware,SME,Direct,2,95000,0.03,184300.0
+DL1127,2024-09-18,2024-09,Q3,REP002,Amina Bello,Abuja,SME,PRD006,Cybersecurity Pkg,Services,SME,Inbound,5,200000,0.1,900000.0
+DL1128,2024-09-16,2024-09,Q3,REP002,Amina Bello,Abuja,SME,PRD005,IT Support Plan,Services,Enterprise,Inbound,2,120000,0.06,225600.0
+DL1129,2024-09-10,2024-09,Q3,REP002,Amina Bello,Abuja,SME,PRD007,POS Terminal,Hardware,Government,Direct,3,75000,0.11,200200.0
+DL1130,2024-09-08,2024-09,Q3,REP002,Amina Bello,Abuja,SME,PRD003,Data Backup Pro,Cloud,SME,Direct,1,60000,0.08,55200.0
+DL1131,2024-09-10,2024-09,Q3,REP002,Amina Bello,Abuja,SME,PRD003,Data Backup Pro,Cloud,Startup,Partner,5,60000,0.1,270000.0
+DL1132,2024-10-09,2024-10,Q4,REP002,Amina Bello,Abuja,SME,PRD007,POS Terminal,Hardware,Startup,Referral,3,75000,0.05,213800.0
+DL1133,2024-10-15,2024-10,Q4,REP002,Amina Bello,Abuja,SME,PRD001,CRM Suite,Software,Startup,Inbound,2,150000,0.07,279000.0
+DL1134,2024-11-05,2024-11,Q4,REP002,Amina Bello,Abuja,SME,PRD006,Cybersecurity Pkg,Services,Enterprise,Inbound,2,200000,0.04,384000.0
+DL1135,2024-11-04,2024-11,Q4,REP002,Amina Bello,Abuja,SME,PRD003,Data Backup Pro,Cloud,Government,Partner,4,60000,0.03,232800.0
+DL1136,2024-11-07,2024-11,Q4,REP002,Amina Bello,Abuja,SME,PRD007,POS Terminal,Hardware,Enterprise,Direct,5,75000,0.04,360000.0
+DL1137,2024-11-13,2024-11,Q4,REP002,Amina Bello,Abuja,SME,PRD004,Cloud Hosting,Cloud,SME,Referral,2,45000,0.1,81000.0
+DL1138,2024-12-06,2024-12,Q4,REP002,Amina Bello,Abuja,SME,PRD007,POS Terminal,Hardware,Enterprise,Direct,2,75000,0.04,144000.0
+DL1139,2024-12-24,2024-12,Q4,REP002,Amina Bello,Abuja,SME,PRD002,Payroll Manager,Software,Startup,Inbound,4,85000,0.05,323000.0
+DL1140,2024-12-06,2024-12,Q4,REP002,Amina Bello,Abuja,SME,PRD006,Cybersecurity Pkg,Services,Government,Inbound,5,200000,0.0,1000000.0
+DL1141,2024-12-06,2024-12,Q4,REP002,Amina Bello,Abuja,SME,PRD006,Cybersecurity Pkg,Services,SME,Inbound,3,200000,0.09,546000.0
+DL1142,2024-12-15,2024-12,Q4,REP002,Amina Bello,Abuja,SME,PRD006,Cybersecurity Pkg,Services,Government,Referral,2,200000,0.11,356000.0
+DL1143,2024-12-20,2024-12,Q4,REP002,Amina Bello,Abuja,SME,PRD008,Network Setup,Hardware,Startup,Inbound,5,95000,0.06,446500.0
+DL1144,2024-01-22,2024-01,Q1,REP003,Tunde Fashola,Lagos,Enterprise,PRD008,Network Setup,Hardware,Government,Referral,1,95000,0.12,83600.0
+DL1145,2024-01-13,2024-01,Q1,REP003,Tunde Fashola,Lagos,Enterprise,PRD002,Payroll Manager,Software,Government,Partner,3,85000,0.12,224400.0
+DL1146,2024-01-26,2024-01,Q1,REP003,Tunde Fashola,Lagos,Enterprise,PRD001,CRM Suite,Software,Enterprise,Inbound,2,150000,0.07,279000.0
+DL1147,2024-01-24,2024-01,Q1,REP003,Tunde Fashola,Lagos,Enterprise,PRD001,CRM Suite,Software,SME,Referral,1,150000,0.07,139500.0
+DL1148,2024-01-23,2024-01,Q1,REP003,Tunde Fashola,Lagos,Enterprise,PRD004,Cloud Hosting,Cloud,Enterprise,Direct,3,45000,0.05,128200.0
+DL1149,2024-02-20,2024-02,Q1,REP003,Tunde Fashola,Lagos,Enterprise,PRD004,Cloud Hosting,Cloud,SME,Referral,1,45000,0.08,41400.0
+DL1150,2024-02-16,2024-02,Q1,REP003,Tunde Fashola,Lagos,Enterprise,PRD001,CRM Suite,Software,Startup,Partner,2,150000,0.12,264000.0
+DL1151,2024-02-01,2024-02,Q1,REP003,Tunde Fashola,Lagos,Enterprise,PRD006,Cybersecurity Pkg,Services,Government,Direct,3,200000,0.09,546000.0
+DL1152,2024-03-27,2024-03,Q1,REP003,Tunde Fashola,Lagos,Enterprise,PRD003,Data Backup Pro,Cloud,SME,Inbound,5,60000,0.19,243000.0
+DL1153,2024-03-23,2024-03,Q1,REP003,Tunde Fashola,Lagos,Enterprise,PRD005,IT Support Plan,Services,Government,Partner,3,120000,0.1,324000.0
+DL1154,2024-03-01,2024-03,Q1,REP003,Tunde Fashola,Lagos,Enterprise,PRD005,IT Support Plan,Services,Government,Direct,4,120000,0.15,408000.0
+DL1155,2024-03-11,2024-03,Q1,REP003,Tunde Fashola,Lagos,Enterprise,PRD005,IT Support Plan,Services,Enterprise,Direct,5,120000,0.14,516000.0
+DL1156,2024-03-23,2024-03,Q1,REP003,Tunde Fashola,Lagos,Enterprise,PRD007,POS Terminal,Hardware,Enterprise,Referral,3,75000,0.15,191200.0
+DL1157,2024-03-11,2024-03,Q1,REP003,Tunde Fashola,Lagos,Enterprise,PRD006,Cybersecurity Pkg,Services,Startup,Partner,3,200000,0.1,540000.0
+DL1158,2024-04-27,2024-04,Q2,REP003,Tunde Fashola,Lagos,Enterprise,PRD005,IT Support Plan,Services,SME,Partner,4,120000,0.08,441600.0
+DL1159,2024-04-03,2024-04,Q2,REP003,Tunde Fashola,Lagos,Enterprise,PRD002,Payroll Manager,Software,Enterprise,Referral,1,85000,0.15,72200.0
+DL1160,2024-04-11,2024-04,Q2,REP003,Tunde Fashola,Lagos,Enterprise,PRD002,Payroll Manager,Software,SME,Referral,3,85000,0.11,227000.0
+DL1161,2024-04-26,2024-04,Q2,REP003,Tunde Fashola,Lagos,Enterprise,PRD001,CRM Suite,Software,Government,Referral,2,150000,0.13,261000.0
+DL1162,2024-04-13,2024-04,Q2,REP003,Tunde Fashola,Lagos,Enterprise,PRD001,CRM Suite,Software,Startup,Inbound,3,150000,0.1,405000.0
+DL1163,2024-05-19,2024-05,Q2,REP003,Tunde Fashola,Lagos,Enterprise,PRD003,Data Backup Pro,Cloud,Enterprise,Direct,2,60000,0.18,98400.0
+DL1164,2024-05-12,2024-05,Q2,REP003,Tunde Fashola,Lagos,Enterprise,PRD003,Data Backup Pro,Cloud,Government,Referral,1,60000,0.1,54000.0
+DL1165,2024-05-12,2024-05,Q2,REP003,Tunde Fashola,Lagos,Enterprise,PRD001,CRM Suite,Software,Startup,Referral,2,150000,0.09,273000.0
+DL1166,2024-05-09,2024-05,Q2,REP003,Tunde Fashola,Lagos,Enterprise,PRD006,Cybersecurity Pkg,Services,Government,Direct,2,200000,0.06,376000.0
+DL1167,2024-05-21,2024-05,Q2,REP003,Tunde Fashola,Lagos,Enterprise,PRD002,Payroll Manager,Software,SME,Partner,5,85000,0.08,391000.0
+DL1168,2024-06-20,2024-06,Q2,REP003,Tunde Fashola,Lagos,Enterprise,PRD008,Network Setup,Hardware,SME,Referral,4,95000,0.1,342000.0
+DL1169,2024-06-14,2024-06,Q2,REP003,Tunde Fashola,Lagos,Enterprise,PRD007,POS Terminal,Hardware,SME,Inbound,5,75000,0.12,330000.0
+DL1170,2024-06-23,2024-06,Q2,REP003,Tunde Fashola,Lagos,Enterprise,PRD004,Cloud Hosting,Cloud,SME,Partner,3,45000,0.13,117400.0
+DL1171,2024-07-23,2024-07,Q3,REP003,Tunde Fashola,Lagos,Enterprise,PRD008,Network Setup,Hardware,Enterprise,Referral,2,95000,0.07,176700.0
+DL1172,2024-07-28,2024-07,Q3,REP003,Tunde Fashola,Lagos,Enterprise,PRD001,CRM Suite,Software,Government,Direct,2,150000,0.09,273000.0
+DL1173,2024-07-08,2024-07,Q3,REP003,Tunde Fashola,Lagos,Enterprise,PRD002,Payroll Manager,Software,Enterprise,Direct,1,85000,0.08,78200.0
+DL1174,2024-07-24,2024-07,Q3,REP003,Tunde Fashola,Lagos,Enterprise,PRD002,Payroll Manager,Software,Startup,Partner,1,85000,0.06,79900.0
+DL1175,2024-07-20,2024-07,Q3,REP003,Tunde Fashola,Lagos,Enterprise,PRD006,Cybersecurity Pkg,Services,Enterprise,Inbound,2,200000,0.12,352000.0
+DL1176,2024-07-15,2024-07,Q3,REP003,Tunde Fashola,Lagos,Enterprise,PRD003,Data Backup Pro,Cloud,Startup,Direct,4,60000,0.08,220800.0
+DL1177,2024-08-22,2024-08,Q3,REP003,Tunde Fashola,Lagos,Enterprise,PRD006,Cybersecurity Pkg,Services,Startup,Direct,2,200000,0.15,340000.0
+DL1178,2024-08-18,2024-08,Q3,REP003,Tunde Fashola,Lagos,Enterprise,PRD004,Cloud Hosting,Cloud,Startup,Referral,2,45000,0.06,84600.0
+DL1179,2024-08-18,2024-08,Q3,REP003,Tunde Fashola,Lagos,Enterprise,PRD008,Network Setup,Hardware,Government,Referral,1,95000,0.09,86400.0
+DL1180,2024-09-26,2024-09,Q3,REP003,Tunde Fashola,Lagos,Enterprise,PRD002,Payroll Manager,Software,Enterprise,Referral,1,85000,0.07,79000.0
+DL1181,2024-09-14,2024-09,Q3,REP003,Tunde Fashola,Lagos,Enterprise,PRD004,Cloud Hosting,Cloud,Enterprise,Partner,2,45000,0.08,82800.0
+DL1182,2024-09-17,2024-09,Q3,REP003,Tunde Fashola,Lagos,Enterprise,PRD002,Payroll Manager,Software,Enterprise,Inbound,2,85000,0.08,156400.0
+DL1183,2024-09-19,2024-09,Q3,REP003,Tunde Fashola,Lagos,Enterprise,PRD008,Network Setup,Hardware,Startup,Inbound,5,95000,0.09,432200.0
+DL1184,2024-09-15,2024-09,Q3,REP003,Tunde Fashola,Lagos,Enterprise,PRD003,Data Backup Pro,Cloud,Startup,Inbound,5,60000,0.17,249000.0
+DL1185,2024-10-04,2024-10,Q4,REP003,Tunde Fashola,Lagos,Enterprise,PRD004,Cloud Hosting,Cloud,SME,Direct,5,45000,0.14,193500.0
+DL1186,2024-10-28,2024-10,Q4,REP003,Tunde Fashola,Lagos,Enterprise,PRD002,Payroll Manager,Software,SME,Inbound,2,85000,0.14,146200.0
+DL1187,2024-10-06,2024-10,Q4,REP003,Tunde Fashola,Lagos,Enterprise,PRD005,IT Support Plan,Services,Startup,Direct,1,120000,0.09,109200.0
+DL1188,2024-10-17,2024-10,Q4,REP003,Tunde Fashola,Lagos,Enterprise,PRD002,Payroll Manager,Software,Startup,Partner,5,85000,0.08,391000.0
+DL1189,2024-10-16,2024-10,Q4,REP003,Tunde Fashola,Lagos,Enterprise,PRD003,Data Backup Pro,Cloud,Startup,Inbound,2,60000,0.14,103200.0
+DL1190,2024-10-08,2024-10,Q4,REP003,Tunde Fashola,Lagos,Enterprise,PRD003,Data Backup Pro,Cloud,SME,Partner,3,60000,0.11,160200.0
+DL1191,2024-10-19,2024-10,Q4,REP003,Tunde Fashola,Lagos,Enterprise,PRD005,IT Support Plan,Services,Enterprise,Inbound,2,120000,0.14,206400.0
+DL1192,2024-10-09,2024-10,Q4,REP003,Tunde Fashola,Lagos,Enterprise,PRD003,Data Backup Pro,Cloud,Government,Referral,4,60000,0.09,218400.0
+DL1193,2024-11-01,2024-11,Q4,REP003,Tunde Fashola,Lagos,Enterprise,PRD004,Cloud Hosting,Cloud,Government,Partner,5,45000,0.1,202500.0
+DL1194,2024-11-13,2024-11,Q4,REP003,Tunde Fashola,Lagos,Enterprise,PRD001,CRM Suite,Software,SME,Partner,3,150000,0.05,427500.0
+DL1195,2024-11-17,2024-11,Q4,REP003,Tunde Fashola,Lagos,Enterprise,PRD002,Payroll Manager,Software,SME,Partner,2,85000,0.11,151300.0
+DL1196,2024-11-26,2024-11,Q4,REP003,Tunde Fashola,Lagos,Enterprise,PRD004,Cloud Hosting,Cloud,Enterprise,Inbound,2,45000,0.17,74700.0
+DL1197,2024-11-10,2024-11,Q4,REP003,Tunde Fashola,Lagos,Enterprise,PRD002,Payroll Manager,Software,Government,Inbound,5,85000,0.18,348500.0
+DL1198,2024-11-19,2024-11,Q4,REP003,Tunde Fashola,Lagos,Enterprise,PRD001,CRM Suite,Software,Startup,Referral,5,150000,0.06,705000.0
+DL1199,2024-11-22,2024-11,Q4,REP003,Tunde Fashola,Lagos,Enterprise,PRD006,Cybersecurity Pkg,Services,Enterprise,Direct,3,200000,0.07,558000.0
+DL1200,2024-11-19,2024-11,Q4,REP003,Tunde Fashola,Lagos,Enterprise,PRD003,Data Backup Pro,Cloud,SME,Referral,2,60000,0.16,100800.0
+DL1201,2024-12-13,2024-12,Q4,REP003,Tunde Fashola,Lagos,Enterprise,PRD008,Network Setup,Hardware,Government,Partner,1,95000,0.1,85500.0
+DL1202,2024-12-03,2024-12,Q4,REP003,Tunde Fashola,Lagos,Enterprise,PRD001,CRM Suite,Software,Enterprise,Inbound,2,150000,0.08,276000.0
+DL1203,2024-12-20,2024-12,Q4,REP003,Tunde Fashola,Lagos,Enterprise,PRD003,Data Backup Pro,Cloud,SME,Referral,5,60000,0.12,264000.0
+DL1204,2024-12-03,2024-12,Q4,REP003,Tunde Fashola,Lagos,Enterprise,PRD007,POS Terminal,Hardware,Enterprise,Partner,3,75000,0.17,186800.0
+DL1205,2024-12-17,2024-12,Q4,REP003,Tunde Fashola,Lagos,Enterprise,PRD008,Network Setup,Hardware,Enterprise,Direct,2,95000,0.08,174800.0
+DL1206,2024-01-16,2024-01,Q1,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD007,POS Terminal,Hardware,SME,Partner,2,75000,0.06,141000.0
+DL1207,2024-01-24,2024-01,Q1,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD007,POS Terminal,Hardware,SME,Inbound,5,75000,0.07,348800.0
+DL1208,2024-02-15,2024-02,Q1,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD003,Data Backup Pro,Cloud,Government,Partner,2,60000,0.02,117600.0
+DL1209,2024-02-20,2024-02,Q1,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD006,Cybersecurity Pkg,Services,Enterprise,Referral,4,200000,0.04,768000.0
+DL1210,2024-02-01,2024-02,Q1,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD008,Network Setup,Hardware,Government,Inbound,5,95000,0.08,437000.0
+DL1211,2024-02-15,2024-02,Q1,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD001,CRM Suite,Software,Government,Inbound,2,150000,0.11,267000.0
+DL1212,2024-02-08,2024-02,Q1,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD001,CRM Suite,Software,Government,Referral,2,150000,0.03,291000.0
+DL1213,2024-02-21,2024-02,Q1,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD003,Data Backup Pro,Cloud,Startup,Direct,2,60000,0.04,115200.0
+DL1214,2024-02-14,2024-02,Q1,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD008,Network Setup,Hardware,Government,Referral,1,95000,0.09,86400.0
+DL1215,2024-03-07,2024-03,Q1,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD001,CRM Suite,Software,Startup,Partner,3,150000,0.06,423000.0
+DL1216,2024-03-15,2024-03,Q1,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD002,Payroll Manager,Software,Startup,Inbound,2,85000,0.06,159800.0
+DL1217,2024-03-19,2024-03,Q1,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD003,Data Backup Pro,Cloud,Enterprise,Partner,1,60000,0.01,59400.0
+DL1218,2024-03-26,2024-03,Q1,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD005,IT Support Plan,Services,Enterprise,Inbound,4,120000,0.0,480000.0
+DL1219,2024-04-21,2024-04,Q2,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD003,Data Backup Pro,Cloud,Government,Partner,2,60000,0.1,108000.0
+DL1220,2024-04-19,2024-04,Q2,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD001,CRM Suite,Software,Government,Inbound,2,150000,0.08,276000.0
+DL1221,2024-04-03,2024-04,Q2,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD001,CRM Suite,Software,Government,Referral,2,150000,0.07,279000.0
+DL1222,2024-05-16,2024-05,Q2,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD004,Cloud Hosting,Cloud,Startup,Direct,2,45000,0.09,81900.0
+DL1223,2024-05-23,2024-05,Q2,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD008,Network Setup,Hardware,SME,Direct,5,95000,0.01,470200.0
+DL1224,2024-05-08,2024-05,Q2,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD003,Data Backup Pro,Cloud,Startup,Referral,4,60000,0.03,232800.0
+DL1225,2024-05-12,2024-05,Q2,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD003,Data Backup Pro,Cloud,Government,Referral,1,60000,0.03,58200.0
+DL1226,2024-05-28,2024-05,Q2,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD007,POS Terminal,Hardware,Startup,Direct,4,75000,0.07,279000.0
+DL1227,2024-05-08,2024-05,Q2,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD008,Network Setup,Hardware,SME,Partner,1,95000,0.08,87400.0
+DL1228,2024-05-05,2024-05,Q2,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD001,CRM Suite,Software,Government,Direct,1,150000,0.1,135000.0
+DL1229,2024-06-28,2024-06,Q2,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD006,Cybersecurity Pkg,Services,Government,Partner,5,200000,0.05,950000.0
+DL1230,2024-06-23,2024-06,Q2,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD004,Cloud Hosting,Cloud,SME,Referral,1,45000,0.04,43200.0
+DL1231,2024-07-13,2024-07,Q3,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD002,Payroll Manager,Software,Enterprise,Partner,1,85000,0.07,79000.0
+DL1232,2024-07-03,2024-07,Q3,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD005,IT Support Plan,Services,SME,Direct,3,120000,0.02,352800.0
+DL1233,2024-07-20,2024-07,Q3,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD005,IT Support Plan,Services,Government,Direct,1,120000,0.06,112800.0
+DL1234,2024-07-28,2024-07,Q3,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD005,IT Support Plan,Services,Government,Referral,5,120000,0.01,594000.0
+DL1235,2024-07-12,2024-07,Q3,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD003,Data Backup Pro,Cloud,Enterprise,Partner,2,60000,0.1,108000.0
+DL1236,2024-07-27,2024-07,Q3,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD005,IT Support Plan,Services,Government,Referral,4,120000,0.01,475200.0
+DL1237,2024-07-25,2024-07,Q3,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD006,Cybersecurity Pkg,Services,Government,Direct,5,200000,0.07,930000.0
+DL1238,2024-08-03,2024-08,Q3,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD001,CRM Suite,Software,SME,Partner,2,150000,0.07,279000.0
+DL1239,2024-08-19,2024-08,Q3,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD008,Network Setup,Hardware,Government,Inbound,5,95000,0.03,460800.0
+DL1240,2024-08-11,2024-08,Q3,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD003,Data Backup Pro,Cloud,Startup,Inbound,2,60000,0.06,112800.0
+DL1241,2024-08-02,2024-08,Q3,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD002,Payroll Manager,Software,Startup,Inbound,1,85000,0.11,75600.0
+DL1242,2024-08-24,2024-08,Q3,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD005,IT Support Plan,Services,Enterprise,Referral,2,120000,0.04,230400.0
+DL1243,2024-08-19,2024-08,Q3,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD001,CRM Suite,Software,Startup,Referral,1,150000,0.04,144000.0
+DL1244,2024-08-06,2024-08,Q3,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD003,Data Backup Pro,Cloud,SME,Direct,2,60000,0.09,109200.0
+DL1245,2024-09-14,2024-09,Q3,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD001,CRM Suite,Software,Government,Partner,1,150000,0.04,144000.0
+DL1246,2024-09-25,2024-09,Q3,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD006,Cybersecurity Pkg,Services,Government,Referral,2,200000,0.06,376000.0
+DL1247,2024-09-04,2024-09,Q3,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD005,IT Support Plan,Services,Startup,Direct,2,120000,0.11,213600.0
+DL1248,2024-09-22,2024-09,Q3,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD001,CRM Suite,Software,Enterprise,Inbound,1,150000,0.01,148500.0
+DL1249,2024-09-03,2024-09,Q3,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD003,Data Backup Pro,Cloud,SME,Partner,2,60000,0.06,112800.0
+DL1250,2024-09-09,2024-09,Q3,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD008,Network Setup,Hardware,Government,Referral,5,95000,0.05,451200.0
+DL1251,2024-09-25,2024-09,Q3,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD008,Network Setup,Hardware,Startup,Partner,3,95000,0.05,270800.0
+DL1252,2024-10-08,2024-10,Q4,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD008,Network Setup,Hardware,Government,Referral,5,95000,0.07,441700.0
+DL1253,2024-10-18,2024-10,Q4,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD006,Cybersecurity Pkg,Services,Government,Partner,2,200000,0.07,372000.0
+DL1254,2024-10-28,2024-10,Q4,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD008,Network Setup,Hardware,Startup,Partner,5,95000,0.04,456000.0
+DL1255,2024-10-04,2024-10,Q4,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD004,Cloud Hosting,Cloud,Startup,Direct,3,45000,0.02,132300.0
+DL1256,2024-10-07,2024-10,Q4,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD005,IT Support Plan,Services,Government,Direct,4,120000,0.08,441600.0
+DL1257,2024-10-15,2024-10,Q4,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD007,POS Terminal,Hardware,Government,Referral,2,75000,0.05,142500.0
+DL1258,2024-11-19,2024-11,Q4,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD001,CRM Suite,Software,SME,Direct,1,150000,0.07,139500.0
+DL1259,2024-11-17,2024-11,Q4,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD002,Payroll Manager,Software,SME,Partner,1,85000,0.04,81600.0
+DL1260,2024-11-11,2024-11,Q4,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD004,Cloud Hosting,Cloud,Government,Direct,3,45000,0.08,124200.0
+DL1261,2024-11-07,2024-11,Q4,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD002,Payroll Manager,Software,SME,Direct,1,85000,0.06,79900.0
+DL1262,2024-11-17,2024-11,Q4,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD003,Data Backup Pro,Cloud,SME,Partner,5,60000,0.06,282000.0
+DL1263,2024-12-25,2024-12,Q4,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD003,Data Backup Pro,Cloud,Enterprise,Partner,3,60000,0.02,176400.0
+DL1264,2024-12-07,2024-12,Q4,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD006,Cybersecurity Pkg,Services,Startup,Partner,3,200000,0.01,594000.0
+DL1265,2024-12-13,2024-12,Q4,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD007,POS Terminal,Hardware,Startup,Direct,2,75000,0.04,144000.0
+DL1266,2024-12-01,2024-12,Q4,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD007,POS Terminal,Hardware,Government,Direct,1,75000,0.04,72000.0
+DL1267,2024-12-14,2024-12,Q4,REP004,Ngozi Adeyemi,Port Harcourt,SME,PRD006,Cybersecurity Pkg,Services,Government,Partner,2,200000,0.02,392000.0
+DL1268,2024-01-16,2024-01,Q1,REP005,Emeka Nwosu,Enugu,SME,PRD002,Payroll Manager,Software,Government,Partner,4,85000,0.02,333200.0
+DL1269,2024-01-14,2024-01,Q1,REP005,Emeka Nwosu,Enugu,SME,PRD008,Network Setup,Hardware,SME,Inbound,5,95000,0.09,432200.0
+DL1270,2024-01-19,2024-01,Q1,REP005,Emeka Nwosu,Enugu,SME,PRD005,IT Support Plan,Services,SME,Inbound,1,120000,0.1,108000.0
+DL1271,2024-02-15,2024-02,Q1,REP005,Emeka Nwosu,Enugu,SME,PRD005,IT Support Plan,Services,Government,Direct,2,120000,0.1,216000.0
+DL1272,2024-02-02,2024-02,Q1,REP005,Emeka Nwosu,Enugu,SME,PRD001,CRM Suite,Software,Enterprise,Direct,5,150000,0.11,667500.0
+DL1273,2024-02-27,2024-02,Q1,REP005,Emeka Nwosu,Enugu,SME,PRD001,CRM Suite,Software,Startup,Partner,1,150000,0.05,142500.0
+DL1274,2024-02-05,2024-02,Q1,REP005,Emeka Nwosu,Enugu,SME,PRD007,POS Terminal,Hardware,Government,Direct,1,75000,0.06,70500.0
+DL1275,2024-02-05,2024-02,Q1,REP005,Emeka Nwosu,Enugu,SME,PRD007,POS Terminal,Hardware,Enterprise,Inbound,4,75000,0.03,291000.0
+DL1276,2024-02-03,2024-02,Q1,REP005,Emeka Nwosu,Enugu,SME,PRD001,CRM Suite,Software,Enterprise,Inbound,3,150000,0.0,450000.0
+DL1277,2024-02-03,2024-02,Q1,REP005,Emeka Nwosu,Enugu,SME,PRD003,Data Backup Pro,Cloud,Startup,Referral,1,60000,0.05,57000.0
+DL1278,2024-02-24,2024-02,Q1,REP005,Emeka Nwosu,Enugu,SME,PRD004,Cloud Hosting,Cloud,Startup,Direct,3,45000,0.08,124200.0
+DL1279,2024-02-22,2024-02,Q1,REP005,Emeka Nwosu,Enugu,SME,PRD005,IT Support Plan,Services,SME,Partner,1,120000,0.01,118800.0
+DL1280,2024-02-22,2024-02,Q1,REP005,Emeka Nwosu,Enugu,SME,PRD001,CRM Suite,Software,SME,Inbound,4,150000,0.06,564000.0
+DL1281,2024-03-09,2024-03,Q1,REP005,Emeka Nwosu,Enugu,SME,PRD002,Payroll Manager,Software,SME,Direct,1,85000,0.01,84200.0
+DL1282,2024-03-24,2024-03,Q1,REP005,Emeka Nwosu,Enugu,SME,PRD008,Network Setup,Hardware,Startup,Partner,4,95000,0.02,372400.0
+DL1283,2024-03-19,2024-03,Q1,REP005,Emeka Nwosu,Enugu,SME,PRD001,CRM Suite,Software,Government,Direct,2,150000,0.04,288000.0
+DL1284,2024-03-18,2024-03,Q1,REP005,Emeka Nwosu,Enugu,SME,PRD001,CRM Suite,Software,Enterprise,Partner,5,150000,0.11,667500.0
+DL1285,2024-03-10,2024-03,Q1,REP005,Emeka Nwosu,Enugu,SME,PRD001,CRM Suite,Software,Startup,Referral,1,150000,0.02,147000.0
+DL1286,2024-04-23,2024-04,Q2,REP005,Emeka Nwosu,Enugu,SME,PRD006,Cybersecurity Pkg,Services,Government,Partner,1,200000,0.01,198000.0
+DL1287,2024-04-09,2024-04,Q2,REP005,Emeka Nwosu,Enugu,SME,PRD004,Cloud Hosting,Cloud,Government,Direct,5,45000,0.02,220500.0
+DL1288,2024-04-10,2024-04,Q2,REP005,Emeka Nwosu,Enugu,SME,PRD003,Data Backup Pro,Cloud,Startup,Direct,5,60000,0.02,294000.0
+DL1289,2024-04-06,2024-04,Q2,REP005,Emeka Nwosu,Enugu,SME,PRD007,POS Terminal,Hardware,Government,Inbound,5,75000,0.08,345000.0
+DL1290,2024-05-10,2024-05,Q2,REP005,Emeka Nwosu,Enugu,SME,PRD007,POS Terminal,Hardware,Government,Inbound,2,75000,0.01,148500.0
+DL1291,2024-05-27,2024-05,Q2,REP005,Emeka Nwosu,Enugu,SME,PRD002,Payroll Manager,Software,Enterprise,Direct,2,85000,0.04,163200.0
+DL1292,2024-05-22,2024-05,Q2,REP005,Emeka Nwosu,Enugu,SME,PRD005,IT Support Plan,Services,SME,Inbound,2,120000,0.09,218400.0
+DL1293,2024-05-14,2024-05,Q2,REP005,Emeka Nwosu,Enugu,SME,PRD008,Network Setup,Hardware,Enterprise,Partner,5,95000,0.11,422800.0
+DL1294,2024-05-06,2024-05,Q2,REP005,Emeka Nwosu,Enugu,SME,PRD004,Cloud Hosting,Cloud,Enterprise,Partner,1,45000,0.01,44600.0
+DL1295,2024-06-24,2024-06,Q2,REP005,Emeka Nwosu,Enugu,SME,PRD001,CRM Suite,Software,SME,Partner,3,150000,0.11,400500.0
+DL1296,2024-06-02,2024-06,Q2,REP005,Emeka Nwosu,Enugu,SME,PRD007,POS Terminal,Hardware,SME,Inbound,2,75000,0.05,142500.0
+DL1297,2024-06-08,2024-06,Q2,REP005,Emeka Nwosu,Enugu,SME,PRD002,Payroll Manager,Software,Government,Partner,2,85000,0.06,159800.0
+DL1298,2024-06-27,2024-06,Q2,REP005,Emeka Nwosu,Enugu,SME,PRD007,POS Terminal,Hardware,SME,Direct,2,75000,0.08,138000.0
+DL1299,2024-06-24,2024-06,Q2,REP005,Emeka Nwosu,Enugu,SME,PRD005,IT Support Plan,Services,Startup,Direct,4,120000,0.08,441600.0
+DL1300,2024-06-25,2024-06,Q2,REP005,Emeka Nwosu,Enugu,SME,PRD004,Cloud Hosting,Cloud,Enterprise,Referral,3,45000,0.11,120200.0
+DL1301,2024-06-03,2024-06,Q2,REP005,Emeka Nwosu,Enugu,SME,PRD007,POS Terminal,Hardware,Government,Referral,2,75000,0.09,136500.0
+DL1302,2024-07-23,2024-07,Q3,REP005,Emeka Nwosu,Enugu,SME,PRD008,Network Setup,Hardware,Government,Direct,2,95000,0.01,188100.0
+DL1303,2024-07-12,2024-07,Q3,REP005,Emeka Nwosu,Enugu,SME,PRD007,POS Terminal,Hardware,Government,Direct,2,75000,0.07,139500.0
+DL1304,2024-07-01,2024-07,Q3,REP005,Emeka Nwosu,Enugu,SME,PRD002,Payroll Manager,Software,Government,Inbound,2,85000,0.04,163200.0
+DL1305,2024-07-14,2024-07,Q3,REP005,Emeka Nwosu,Enugu,SME,PRD006,Cybersecurity Pkg,Services,SME,Inbound,2,200000,0.09,364000.0
+DL1306,2024-07-27,2024-07,Q3,REP005,Emeka Nwosu,Enugu,SME,PRD007,POS Terminal,Hardware,Enterprise,Referral,4,75000,0.01,297000.0
+DL1307,2024-07-20,2024-07,Q3,REP005,Emeka Nwosu,Enugu,SME,PRD002,Payroll Manager,Software,SME,Partner,1,85000,0.09,77400.0
+DL1308,2024-07-21,2024-07,Q3,REP005,Emeka Nwosu,Enugu,SME,PRD006,Cybersecurity Pkg,Services,Startup,Direct,5,200000,0.12,880000.0
+DL1309,2024-07-08,2024-07,Q3,REP005,Emeka Nwosu,Enugu,SME,PRD006,Cybersecurity Pkg,Services,SME,Direct,1,200000,0.02,196000.0
+DL1310,2024-08-22,2024-08,Q3,REP005,Emeka Nwosu,Enugu,SME,PRD001,CRM Suite,Software,Government,Referral,3,150000,0.06,423000.0
+DL1311,2024-08-07,2024-08,Q3,REP005,Emeka Nwosu,Enugu,SME,PRD007,POS Terminal,Hardware,Startup,Partner,4,75000,0.1,270000.0
+DL1312,2024-08-07,2024-08,Q3,REP005,Emeka Nwosu,Enugu,SME,PRD002,Payroll Manager,Software,Government,Inbound,1,85000,0.1,76500.0
+DL1313,2024-08-24,2024-08,Q3,REP005,Emeka Nwosu,Enugu,SME,PRD006,Cybersecurity Pkg,Services,Government,Inbound,1,200000,0.08,184000.0
+DL1314,2024-08-12,2024-08,Q3,REP005,Emeka Nwosu,Enugu,SME,PRD001,CRM Suite,Software,Enterprise,Inbound,3,150000,0.1,405000.0
+DL1315,2024-09-11,2024-09,Q3,REP005,Emeka Nwosu,Enugu,SME,PRD008,Network Setup,Hardware,Enterprise,Referral,2,95000,0.03,184300.0
+DL1316,2024-09-13,2024-09,Q3,REP005,Emeka Nwosu,Enugu,SME,PRD005,IT Support Plan,Services,Government,Referral,3,120000,0.07,334800.0
+DL1317,2024-09-03,2024-09,Q3,REP005,Emeka Nwosu,Enugu,SME,PRD004,Cloud Hosting,Cloud,Startup,Inbound,4,45000,0.08,165600.0
+DL1318,2024-09-12,2024-09,Q3,REP005,Emeka Nwosu,Enugu,SME,PRD008,Network Setup,Hardware,Startup,Inbound,2,95000,0.06,178600.0
+DL1319,2024-09-22,2024-09,Q3,REP005,Emeka Nwosu,Enugu,SME,PRD003,Data Backup Pro,Cloud,Startup,Referral,1,60000,0.02,58800.0
+DL1320,2024-10-03,2024-10,Q4,REP005,Emeka Nwosu,Enugu,SME,PRD007,POS Terminal,Hardware,Startup,Partner,1,75000,0.1,67500.0
+DL1321,2024-10-05,2024-10,Q4,REP005,Emeka Nwosu,Enugu,SME,PRD002,Payroll Manager,Software,Startup,Partner,1,85000,0.1,76500.0
+DL1322,2024-10-20,2024-10,Q4,REP005,Emeka Nwosu,Enugu,SME,PRD008,Network Setup,Hardware,Startup,Referral,1,95000,0.05,90200.0
+DL1323,2024-10-05,2024-10,Q4,REP005,Emeka Nwosu,Enugu,SME,PRD007,POS Terminal,Hardware,Enterprise,Partner,5,75000,0.0,375000.0
+DL1324,2024-11-02,2024-11,Q4,REP005,Emeka Nwosu,Enugu,SME,PRD008,Network Setup,Hardware,Government,Direct,2,95000,0.01,188100.0
+DL1325,2024-11-09,2024-11,Q4,REP005,Emeka Nwosu,Enugu,SME,PRD003,Data Backup Pro,Cloud,Enterprise,Direct,5,60000,0.08,276000.0
+DL1326,2024-11-18,2024-11,Q4,REP005,Emeka Nwosu,Enugu,SME,PRD002,Payroll Manager,Software,SME,Referral,3,85000,0.04,244800.0
+DL1327,2024-11-19,2024-11,Q4,REP005,Emeka Nwosu,Enugu,SME,PRD005,IT Support Plan,Services,Enterprise,Partner,2,120000,0.09,218400.0
+DL1328,2024-11-01,2024-11,Q4,REP005,Emeka Nwosu,Enugu,SME,PRD008,Network Setup,Hardware,SME,Direct,5,95000,0.11,422800.0
+DL1329,2024-12-23,2024-12,Q4,REP005,Emeka Nwosu,Enugu,SME,PRD003,Data Backup Pro,Cloud,Enterprise,Referral,1,60000,0.04,57600.0
+DL1330,2024-12-04,2024-12,Q4,REP005,Emeka Nwosu,Enugu,SME,PRD002,Payroll Manager,Software,Startup,Inbound,4,85000,0.0,340000.0
+DL1331,2024-12-04,2024-12,Q4,REP005,Emeka Nwosu,Enugu,SME,PRD001,CRM Suite,Software,Enterprise,Inbound,4,150000,0.01,594000.0
+DL1332,2024-12-27,2024-12,Q4,REP005,Emeka Nwosu,Enugu,SME,PRD002,Payroll Manager,Software,SME,Partner,4,85000,0.12,299200.0
+DL1333,2024-12-01,2024-12,Q4,REP005,Emeka Nwosu,Enugu,SME,PRD004,Cloud Hosting,Cloud,Startup,Referral,2,45000,0.07,83700.0
+DL1334,2024-12-28,2024-12,Q4,REP005,Emeka Nwosu,Enugu,SME,PRD003,Data Backup Pro,Cloud,Government,Direct,4,60000,0.12,211200.0
+DL1335,2024-12-18,2024-12,Q4,REP005,Emeka Nwosu,Enugu,SME,PRD002,Payroll Manager,Software,SME,Referral,5,85000,0.1,382500.0
+DL1336,2024-01-23,2024-01,Q1,REP006,Fatima Aliyu,Kano,SME,PRD006,Cybersecurity Pkg,Services,SME,Direct,4,200000,0.05,760000.0
+DL1337,2024-01-03,2024-01,Q1,REP006,Fatima Aliyu,Kano,SME,PRD001,CRM Suite,Software,Startup,Referral,5,150000,0.11,667500.0
+DL1338,2024-01-10,2024-01,Q1,REP006,Fatima Aliyu,Kano,SME,PRD006,Cybersecurity Pkg,Services,Enterprise,Referral,5,200000,0.04,960000.0
+DL1339,2024-01-19,2024-01,Q1,REP006,Fatima Aliyu,Kano,SME,PRD004,Cloud Hosting,Cloud,Startup,Referral,1,45000,0.08,41400.0
+DL1340,2024-01-27,2024-01,Q1,REP006,Fatima Aliyu,Kano,SME,PRD002,Payroll Manager,Software,Government,Partner,2,85000,0.05,161500.0
+DL1341,2024-02-09,2024-02,Q1,REP006,Fatima Aliyu,Kano,SME,PRD006,Cybersecurity Pkg,Services,Government,Inbound,3,200000,0.06,564000.0
+DL1342,2024-02-08,2024-02,Q1,REP006,Fatima Aliyu,Kano,SME,PRD006,Cybersecurity Pkg,Services,Startup,Inbound,3,200000,0.07,558000.0
+DL1343,2024-02-28,2024-02,Q1,REP006,Fatima Aliyu,Kano,SME,PRD001,CRM Suite,Software,Government,Direct,4,150000,0.03,582000.0
+DL1344,2024-02-18,2024-02,Q1,REP006,Fatima Aliyu,Kano,SME,PRD003,Data Backup Pro,Cloud,SME,Inbound,4,60000,0.03,232800.0
+DL1345,2024-02-14,2024-02,Q1,REP006,Fatima Aliyu,Kano,SME,PRD005,IT Support Plan,Services,Startup,Partner,3,120000,0.11,320400.0
+DL1346,2024-03-27,2024-03,Q1,REP006,Fatima Aliyu,Kano,SME,PRD003,Data Backup Pro,Cloud,Government,Inbound,2,60000,0.11,106800.0
+DL1347,2024-03-26,2024-03,Q1,REP006,Fatima Aliyu,Kano,SME,PRD003,Data Backup Pro,Cloud,SME,Inbound,4,60000,0.1,216000.0
+DL1348,2024-03-14,2024-03,Q1,REP006,Fatima Aliyu,Kano,SME,PRD005,IT Support Plan,Services,Government,Inbound,1,120000,0.07,111600.0
+DL1349,2024-03-06,2024-03,Q1,REP006,Fatima Aliyu,Kano,SME,PRD008,Network Setup,Hardware,Startup,Direct,1,95000,0.11,84600.0
+DL1350,2024-03-12,2024-03,Q1,REP006,Fatima Aliyu,Kano,SME,PRD003,Data Backup Pro,Cloud,SME,Direct,3,60000,0.11,160200.0
+DL1351,2024-03-19,2024-03,Q1,REP006,Fatima Aliyu,Kano,SME,PRD004,Cloud Hosting,Cloud,Startup,Partner,2,45000,0.05,85500.0
+DL1352,2024-04-06,2024-04,Q2,REP006,Fatima Aliyu,Kano,SME,PRD008,Network Setup,Hardware,Enterprise,Direct,5,95000,0.11,422800.0
+DL1353,2024-04-05,2024-04,Q2,REP006,Fatima Aliyu,Kano,SME,PRD007,POS Terminal,Hardware,Enterprise,Inbound,4,75000,0.04,288000.0
+DL1354,2024-04-11,2024-04,Q2,REP006,Fatima Aliyu,Kano,SME,PRD006,Cybersecurity Pkg,Services,SME,Direct,2,200000,0.01,396000.0
+DL1355,2024-04-19,2024-04,Q2,REP006,Fatima Aliyu,Kano,SME,PRD005,IT Support Plan,Services,Startup,Referral,2,120000,0.06,225600.0
+DL1356,2024-05-18,2024-05,Q2,REP006,Fatima Aliyu,Kano,SME,PRD002,Payroll Manager,Software,SME,Direct,4,85000,0.1,306000.0
+DL1357,2024-05-06,2024-05,Q2,REP006,Fatima Aliyu,Kano,SME,PRD007,POS Terminal,Hardware,Enterprise,Inbound,4,75000,0.1,270000.0
+DL1358,2024-06-25,2024-06,Q2,REP006,Fatima Aliyu,Kano,SME,PRD002,Payroll Manager,Software,Startup,Partner,2,85000,0.06,159800.0
+DL1359,2024-06-14,2024-06,Q2,REP006,Fatima Aliyu,Kano,SME,PRD007,POS Terminal,Hardware,SME,Direct,4,75000,0.04,288000.0
+DL1360,2024-06-19,2024-06,Q2,REP006,Fatima Aliyu,Kano,SME,PRD003,Data Backup Pro,Cloud,Enterprise,Referral,4,60000,0.09,218400.0
+DL1361,2024-06-16,2024-06,Q2,REP006,Fatima Aliyu,Kano,SME,PRD004,Cloud Hosting,Cloud,SME,Partner,3,45000,0.04,129600.0
+DL1362,2024-06-11,2024-06,Q2,REP006,Fatima Aliyu,Kano,SME,PRD004,Cloud Hosting,Cloud,Enterprise,Partner,5,45000,0.06,211500.0
+DL1363,2024-07-04,2024-07,Q3,REP006,Fatima Aliyu,Kano,SME,PRD004,Cloud Hosting,Cloud,SME,Inbound,1,45000,0.05,42800.0
+DL1364,2024-07-23,2024-07,Q3,REP006,Fatima Aliyu,Kano,SME,PRD002,Payroll Manager,Software,Startup,Direct,2,85000,0.06,159800.0
+DL1365,2024-08-05,2024-08,Q3,REP006,Fatima Aliyu,Kano,SME,PRD004,Cloud Hosting,Cloud,SME,Direct,4,45000,0.01,178200.0
+DL1366,2024-08-21,2024-08,Q3,REP006,Fatima Aliyu,Kano,SME,PRD004,Cloud Hosting,Cloud,Startup,Partner,2,45000,0.03,87300.0
+DL1367,2024-08-11,2024-08,Q3,REP006,Fatima Aliyu,Kano,SME,PRD001,CRM Suite,Software,Government,Referral,4,150000,0.07,558000.0
+DL1368,2024-08-28,2024-08,Q3,REP006,Fatima Aliyu,Kano,SME,PRD008,Network Setup,Hardware,Startup,Inbound,2,95000,0.07,176700.0
+DL1369,2024-08-26,2024-08,Q3,REP006,Fatima Aliyu,Kano,SME,PRD002,Payroll Manager,Software,Enterprise,Referral,4,85000,0.08,312800.0
+DL1370,2024-09-17,2024-09,Q3,REP006,Fatima Aliyu,Kano,SME,PRD004,Cloud Hosting,Cloud,Startup,Referral,4,45000,0.04,172800.0
+DL1371,2024-09-07,2024-09,Q3,REP006,Fatima Aliyu,Kano,SME,PRD007,POS Terminal,Hardware,Enterprise,Referral,1,75000,0.06,70500.0
+DL1372,2024-09-27,2024-09,Q3,REP006,Fatima Aliyu,Kano,SME,PRD001,CRM Suite,Software,Enterprise,Inbound,1,150000,0.1,135000.0
+DL1373,2024-09-15,2024-09,Q3,REP006,Fatima Aliyu,Kano,SME,PRD004,Cloud Hosting,Cloud,Enterprise,Direct,4,45000,0.1,162000.0
+DL1374,2024-09-20,2024-09,Q3,REP006,Fatima Aliyu,Kano,SME,PRD002,Payroll Manager,Software,Startup,Partner,1,85000,0.01,84200.0
+DL1375,2024-09-11,2024-09,Q3,REP006,Fatima Aliyu,Kano,SME,PRD008,Network Setup,Hardware,Government,Partner,3,95000,0.1,256500.0
+DL1376,2024-10-02,2024-10,Q4,REP006,Fatima Aliyu,Kano,SME,PRD007,POS Terminal,Hardware,Enterprise,Direct,4,75000,0.04,288000.0
+DL1377,2024-10-03,2024-10,Q4,REP006,Fatima Aliyu,Kano,SME,PRD005,IT Support Plan,Services,Government,Referral,4,120000,0.07,446400.0
+DL1378,2024-10-23,2024-10,Q4,REP006,Fatima Aliyu,Kano,SME,PRD004,Cloud Hosting,Cloud,Enterprise,Referral,1,45000,0.07,41800.0
+DL1379,2024-10-19,2024-10,Q4,REP006,Fatima Aliyu,Kano,SME,PRD007,POS Terminal,Hardware,Startup,Partner,5,75000,0.01,371200.0
+DL1380,2024-10-22,2024-10,Q4,REP006,Fatima Aliyu,Kano,SME,PRD006,Cybersecurity Pkg,Services,SME,Direct,4,200000,0.01,792000.0
+DL1381,2024-10-03,2024-10,Q4,REP006,Fatima Aliyu,Kano,SME,PRD003,Data Backup Pro,Cloud,Government,Partner,1,60000,0.1,54000.0
+DL1382,2024-10-22,2024-10,Q4,REP006,Fatima Aliyu,Kano,SME,PRD005,IT Support Plan,Services,SME,Inbound,3,120000,0.12,316800.0
+DL1383,2024-11-03,2024-11,Q4,REP006,Fatima Aliyu,Kano,SME,PRD001,CRM Suite,Software,SME,Referral,4,150000,0.04,576000.0
+DL1384,2024-11-18,2024-11,Q4,REP006,Fatima Aliyu,Kano,SME,PRD001,CRM Suite,Software,Enterprise,Partner,4,150000,0.01,594000.0
+DL1385,2024-11-04,2024-11,Q4,REP006,Fatima Aliyu,Kano,SME,PRD007,POS Terminal,Hardware,SME,Direct,4,75000,0.08,276000.0
+DL1386,2024-11-27,2024-11,Q4,REP006,Fatima Aliyu,Kano,SME,PRD002,Payroll Manager,Software,Startup,Referral,5,85000,0.05,403800.0
+DL1387,2024-11-12,2024-11,Q4,REP006,Fatima Aliyu,Kano,SME,PRD006,Cybersecurity Pkg,Services,Startup,Partner,2,200000,0.01,396000.0
+DL1388,2024-11-20,2024-11,Q4,REP006,Fatima Aliyu,Kano,SME,PRD003,Data Backup Pro,Cloud,SME,Inbound,4,60000,0.02,235200.0
+DL1389,2024-11-26,2024-11,Q4,REP006,Fatima Aliyu,Kano,SME,PRD001,CRM Suite,Software,Enterprise,Direct,2,150000,0.11,267000.0
+DL1390,2024-12-09,2024-12,Q4,REP006,Fatima Aliyu,Kano,SME,PRD006,Cybersecurity Pkg,Services,Enterprise,Referral,3,200000,0.03,582000.0
+DL1391,2024-12-03,2024-12,Q4,REP006,Fatima Aliyu,Kano,SME,PRD002,Payroll Manager,Software,Government,Referral,4,85000,0.03,329800.0
+DL1392,2024-12-19,2024-12,Q4,REP006,Fatima Aliyu,Kano,SME,PRD001,CRM Suite,Software,Enterprise,Inbound,1,150000,0.1,135000.0
+DL1393,2024-12-12,2024-12,Q4,REP006,Fatima Aliyu,Kano,SME,PRD001,CRM Suite,Software,Enterprise,Inbound,1,150000,0.01,148500.0
+DL1394,2024-12-06,2024-12,Q4,REP006,Fatima Aliyu,Kano,SME,PRD001,CRM Suite,Software,Startup,Referral,5,150000,0.08,690000.0
+DL1395,2024-12-12,2024-12,Q4,REP006,Fatima Aliyu,Kano,SME,PRD001,CRM Suite,Software,SME,Direct,1,150000,0.09,136500.0
+DL1396,2024-01-14,2024-01,Q1,REP007,Biodun Adeleke,Ibadan,SME,PRD008,Network Setup,Hardware,SME,Partner,4,95000,0.11,338200.0
+DL1397,2024-01-16,2024-01,Q1,REP007,Biodun Adeleke,Ibadan,SME,PRD004,Cloud Hosting,Cloud,Enterprise,Direct,4,45000,0.02,176400.0
+DL1398,2024-01-12,2024-01,Q1,REP007,Biodun Adeleke,Ibadan,SME,PRD005,IT Support Plan,Services,SME,Direct,2,120000,0.07,223200.0
+DL1399,2024-02-28,2024-02,Q1,REP007,Biodun Adeleke,Ibadan,SME,PRD005,IT Support Plan,Services,SME,Partner,5,120000,0.05,570000.0
+DL1400,2024-02-02,2024-02,Q1,REP007,Biodun Adeleke,Ibadan,SME,PRD004,Cloud Hosting,Cloud,SME,Inbound,3,45000,0.01,133600.0
+DL1401,2024-02-03,2024-02,Q1,REP007,Biodun Adeleke,Ibadan,SME,PRD008,Network Setup,Hardware,SME,Partner,1,95000,0.11,84600.0
+DL1402,2024-03-03,2024-03,Q1,REP007,Biodun Adeleke,Ibadan,SME,PRD008,Network Setup,Hardware,Startup,Partner,5,95000,0.12,418000.0
+DL1403,2024-03-23,2024-03,Q1,REP007,Biodun Adeleke,Ibadan,SME,PRD003,Data Backup Pro,Cloud,Government,Referral,1,60000,0.02,58800.0
+DL1404,2024-03-10,2024-03,Q1,REP007,Biodun Adeleke,Ibadan,SME,PRD008,Network Setup,Hardware,Enterprise,Partner,2,95000,0.05,180500.0
+DL1405,2024-03-09,2024-03,Q1,REP007,Biodun Adeleke,Ibadan,SME,PRD003,Data Backup Pro,Cloud,Government,Partner,1,60000,0.1,54000.0
+DL1406,2024-03-15,2024-03,Q1,REP007,Biodun Adeleke,Ibadan,SME,PRD003,Data Backup Pro,Cloud,SME,Inbound,4,60000,0.11,213600.0
+DL1407,2024-04-15,2024-04,Q2,REP007,Biodun Adeleke,Ibadan,SME,PRD004,Cloud Hosting,Cloud,Government,Inbound,1,45000,0.09,41000.0
+DL1408,2024-04-15,2024-04,Q2,REP007,Biodun Adeleke,Ibadan,SME,PRD004,Cloud Hosting,Cloud,SME,Referral,1,45000,0.08,41400.0
+DL1409,2024-04-06,2024-04,Q2,REP007,Biodun Adeleke,Ibadan,SME,PRD004,Cloud Hosting,Cloud,SME,Inbound,3,45000,0.06,126900.0
+DL1410,2024-04-02,2024-04,Q2,REP007,Biodun Adeleke,Ibadan,SME,PRD008,Network Setup,Hardware,SME,Partner,5,95000,0.02,465500.0
+DL1411,2024-05-13,2024-05,Q2,REP007,Biodun Adeleke,Ibadan,SME,PRD002,Payroll Manager,Software,Government,Direct,1,85000,0.02,83300.0
+DL1412,2024-05-04,2024-05,Q2,REP007,Biodun Adeleke,Ibadan,SME,PRD002,Payroll Manager,Software,Enterprise,Partner,5,85000,0.09,386800.0
+DL1413,2024-05-22,2024-05,Q2,REP007,Biodun Adeleke,Ibadan,SME,PRD007,POS Terminal,Hardware,Startup,Direct,1,75000,0.07,69800.0
+DL1414,2024-05-11,2024-05,Q2,REP007,Biodun Adeleke,Ibadan,SME,PRD006,Cybersecurity Pkg,Services,Startup,Partner,5,200000,0.08,920000.0
+DL1415,2024-06-17,2024-06,Q2,REP007,Biodun Adeleke,Ibadan,SME,PRD002,Payroll Manager,Software,SME,Referral,4,85000,0.0,340000.0
+DL1416,2024-06-28,2024-06,Q2,REP007,Biodun Adeleke,Ibadan,SME,PRD006,Cybersecurity Pkg,Services,Government,Direct,1,200000,0.01,198000.0
+DL1417,2024-06-14,2024-06,Q2,REP007,Biodun Adeleke,Ibadan,SME,PRD001,CRM Suite,Software,SME,Direct,5,150000,0.07,697500.0
+DL1418,2024-06-21,2024-06,Q2,REP007,Biodun Adeleke,Ibadan,SME,PRD006,Cybersecurity Pkg,Services,Government,Inbound,3,200000,0.09,546000.0
+DL1419,2024-06-10,2024-06,Q2,REP007,Biodun Adeleke,Ibadan,SME,PRD001,CRM Suite,Software,SME,Referral,1,150000,0.11,133500.0
+DL1420,2024-06-05,2024-06,Q2,REP007,Biodun Adeleke,Ibadan,SME,PRD002,Payroll Manager,Software,Enterprise,Direct,3,85000,0.12,224400.0
+DL1421,2024-07-26,2024-07,Q3,REP007,Biodun Adeleke,Ibadan,SME,PRD005,IT Support Plan,Services,Startup,Inbound,2,120000,0.11,213600.0
+DL1422,2024-07-26,2024-07,Q3,REP007,Biodun Adeleke,Ibadan,SME,PRD003,Data Backup Pro,Cloud,SME,Referral,4,60000,0.1,216000.0
+DL1423,2024-07-16,2024-07,Q3,REP007,Biodun Adeleke,Ibadan,SME,PRD006,Cybersecurity Pkg,Services,Startup,Direct,5,200000,0.07,930000.0
+DL1424,2024-07-04,2024-07,Q3,REP007,Biodun Adeleke,Ibadan,SME,PRD008,Network Setup,Hardware,Enterprise,Direct,2,95000,0.05,180500.0
+DL1425,2024-08-08,2024-08,Q3,REP007,Biodun Adeleke,Ibadan,SME,PRD001,CRM Suite,Software,Government,Partner,4,150000,0.09,546000.0
+DL1426,2024-08-04,2024-08,Q3,REP007,Biodun Adeleke,Ibadan,SME,PRD001,CRM Suite,Software,Startup,Referral,5,150000,0.07,697500.0
+DL1427,2024-09-28,2024-09,Q3,REP007,Biodun Adeleke,Ibadan,SME,PRD003,Data Backup Pro,Cloud,Startup,Inbound,2,60000,0.04,115200.0
+DL1428,2024-09-28,2024-09,Q3,REP007,Biodun Adeleke,Ibadan,SME,PRD007,POS Terminal,Hardware,Startup,Partner,5,75000,0.04,360000.0
+DL1429,2024-09-26,2024-09,Q3,REP007,Biodun Adeleke,Ibadan,SME,PRD004,Cloud Hosting,Cloud,Startup,Partner,4,45000,0.1,162000.0
+DL1430,2024-09-13,2024-09,Q3,REP007,Biodun Adeleke,Ibadan,SME,PRD001,CRM Suite,Software,Government,Partner,4,150000,0.06,564000.0
+DL1431,2024-09-13,2024-09,Q3,REP007,Biodun Adeleke,Ibadan,SME,PRD003,Data Backup Pro,Cloud,Startup,Partner,1,60000,0.09,54600.0
+DL1432,2024-10-11,2024-10,Q4,REP007,Biodun Adeleke,Ibadan,SME,PRD001,CRM Suite,Software,Startup,Inbound,4,150000,0.07,558000.0
+DL1433,2024-10-09,2024-10,Q4,REP007,Biodun Adeleke,Ibadan,SME,PRD005,IT Support Plan,Services,SME,Partner,3,120000,0.07,334800.0
+DL1434,2024-10-08,2024-10,Q4,REP007,Biodun Adeleke,Ibadan,SME,PRD002,Payroll Manager,Software,SME,Direct,1,85000,0.01,84200.0
+DL1435,2024-10-16,2024-10,Q4,REP007,Biodun Adeleke,Ibadan,SME,PRD007,POS Terminal,Hardware,Government,Inbound,4,75000,0.11,267000.0
+DL1436,2024-11-17,2024-11,Q4,REP007,Biodun Adeleke,Ibadan,SME,PRD008,Network Setup,Hardware,Government,Inbound,3,95000,0.04,273600.0
+DL1437,2024-11-01,2024-11,Q4,REP007,Biodun Adeleke,Ibadan,SME,PRD004,Cloud Hosting,Cloud,Government,Referral,2,45000,0.08,82800.0
+DL1438,2024-11-20,2024-11,Q4,REP007,Biodun Adeleke,Ibadan,SME,PRD003,Data Backup Pro,Cloud,SME,Partner,5,60000,0.06,282000.0
+DL1439,2024-11-28,2024-11,Q4,REP007,Biodun Adeleke,Ibadan,SME,PRD005,IT Support Plan,Services,Enterprise,Direct,4,120000,0.07,446400.0
+DL1440,2024-11-20,2024-11,Q4,REP007,Biodun Adeleke,Ibadan,SME,PRD006,Cybersecurity Pkg,Services,SME,Inbound,5,200000,0.09,910000.0
+DL1441,2024-11-11,2024-11,Q4,REP007,Biodun Adeleke,Ibadan,SME,PRD007,POS Terminal,Hardware,Government,Partner,2,75000,0.07,139500.0
+DL1442,2024-11-22,2024-11,Q4,REP007,Biodun Adeleke,Ibadan,SME,PRD002,Payroll Manager,Software,Enterprise,Inbound,5,85000,0.01,420800.0
+DL1443,2024-12-24,2024-12,Q4,REP007,Biodun Adeleke,Ibadan,SME,PRD003,Data Backup Pro,Cloud,Startup,Partner,5,60000,0.09,273000.0
+DL1444,2024-12-24,2024-12,Q4,REP007,Biodun Adeleke,Ibadan,SME,PRD002,Payroll Manager,Software,Enterprise,Referral,1,85000,0.04,81600.0
+DL1445,2024-12-14,2024-12,Q4,REP007,Biodun Adeleke,Ibadan,SME,PRD005,IT Support Plan,Services,Government,Inbound,2,120000,0.09,218400.0
+DL1446,2024-12-25,2024-12,Q4,REP007,Biodun Adeleke,Ibadan,SME,PRD003,Data Backup Pro,Cloud,Enterprise,Referral,5,60000,0.05,285000.0
+DL1447,2024-12-19,2024-12,Q4,REP007,Biodun Adeleke,Ibadan,SME,PRD008,Network Setup,Hardware,Enterprise,Inbound,2,95000,0.12,167200.0
+DL1448,2024-12-07,2024-12,Q4,REP007,Biodun Adeleke,Ibadan,SME,PRD008,Network Setup,Hardware,Startup,Direct,4,95000,0.01,376200.0
+DL1449,2024-12-19,2024-12,Q4,REP007,Biodun Adeleke,Ibadan,SME,PRD007,POS Terminal,Hardware,SME,Partner,5,75000,0.02,367500.0
+DL1450,2024-12-07,2024-12,Q4,REP007,Biodun Adeleke,Ibadan,SME,PRD008,Network Setup,Hardware,SME,Direct,5,95000,0.06,446500.0
+DL1451,2024-01-01,2024-01,Q1,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD003,Data Backup Pro,Cloud,Startup,Inbound,1,60000,0.07,55800.0
+DL1452,2024-01-04,2024-01,Q1,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD003,Data Backup Pro,Cloud,Enterprise,Referral,3,60000,0.18,147600.0
+DL1453,2024-01-05,2024-01,Q1,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD005,IT Support Plan,Services,Startup,Partner,3,120000,0.15,306000.0
+DL1454,2024-01-27,2024-01,Q1,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD008,Network Setup,Hardware,Startup,Direct,1,95000,0.11,84600.0
+DL1455,2024-01-27,2024-01,Q1,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD003,Data Backup Pro,Cloud,Startup,Direct,4,60000,0.15,204000.0
+DL1456,2024-01-04,2024-01,Q1,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD005,IT Support Plan,Services,Startup,Partner,1,120000,0.13,104400.0
+DL1457,2024-01-18,2024-01,Q1,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD003,Data Backup Pro,Cloud,Enterprise,Inbound,4,60000,0.1,216000.0
+DL1458,2024-02-26,2024-02,Q1,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD003,Data Backup Pro,Cloud,Enterprise,Referral,1,60000,0.17,49800.0
+DL1459,2024-02-10,2024-02,Q1,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD005,IT Support Plan,Services,Startup,Direct,3,120000,0.08,331200.0
+DL1460,2024-02-23,2024-02,Q1,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD005,IT Support Plan,Services,Startup,Referral,2,120000,0.06,225600.0
+DL1461,2024-02-16,2024-02,Q1,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD003,Data Backup Pro,Cloud,Government,Partner,5,60000,0.19,243000.0
+DL1462,2024-02-20,2024-02,Q1,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD002,Payroll Manager,Software,Startup,Referral,5,85000,0.13,369800.0
+DL1463,2024-02-23,2024-02,Q1,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD007,POS Terminal,Hardware,Startup,Inbound,4,75000,0.14,258000.0
+DL1464,2024-03-19,2024-03,Q1,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD004,Cloud Hosting,Cloud,Startup,Partner,1,45000,0.17,37400.0
+DL1465,2024-03-24,2024-03,Q1,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD002,Payroll Manager,Software,SME,Direct,1,85000,0.06,79900.0
+DL1466,2024-03-02,2024-03,Q1,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD006,Cybersecurity Pkg,Services,Government,Inbound,2,200000,0.05,380000.0
+DL1467,2024-03-11,2024-03,Q1,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD001,CRM Suite,Software,Government,Inbound,3,150000,0.13,391500.0
+DL1468,2024-03-05,2024-03,Q1,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD006,Cybersecurity Pkg,Services,Government,Direct,3,200000,0.11,534000.0
+DL1469,2024-03-26,2024-03,Q1,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD002,Payroll Manager,Software,Government,Inbound,5,85000,0.06,399500.0
+DL1470,2024-03-19,2024-03,Q1,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD003,Data Backup Pro,Cloud,Startup,Direct,3,60000,0.16,151200.0
+DL1471,2024-03-08,2024-03,Q1,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD002,Payroll Manager,Software,Enterprise,Partner,2,85000,0.16,142800.0
+DL1472,2024-04-07,2024-04,Q2,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD008,Network Setup,Hardware,Startup,Inbound,3,95000,0.12,250800.0
+DL1473,2024-04-26,2024-04,Q2,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD005,IT Support Plan,Services,SME,Inbound,3,120000,0.12,316800.0
+DL1474,2024-04-28,2024-04,Q2,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD004,Cloud Hosting,Cloud,Enterprise,Referral,5,45000,0.12,198000.0
+DL1475,2024-04-02,2024-04,Q2,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD008,Network Setup,Hardware,Startup,Referral,4,95000,0.2,304000.0
+DL1476,2024-05-23,2024-05,Q2,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD005,IT Support Plan,Services,Government,Direct,4,120000,0.08,441600.0
+DL1477,2024-05-04,2024-05,Q2,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD004,Cloud Hosting,Cloud,SME,Referral,4,45000,0.06,169200.0
+DL1478,2024-05-23,2024-05,Q2,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD007,POS Terminal,Hardware,Government,Inbound,4,75000,0.13,261000.0
+DL1479,2024-05-13,2024-05,Q2,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD006,Cybersecurity Pkg,Services,Enterprise,Inbound,3,200000,0.12,528000.0
+DL1480,2024-06-17,2024-06,Q2,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD008,Network Setup,Hardware,Startup,Direct,1,95000,0.15,80800.0
+DL1481,2024-06-02,2024-06,Q2,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD006,Cybersecurity Pkg,Services,SME,Inbound,5,200000,0.18,820000.0
+DL1482,2024-06-19,2024-06,Q2,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD007,POS Terminal,Hardware,Startup,Referral,2,75000,0.08,138000.0
+DL1483,2024-06-04,2024-06,Q2,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD001,CRM Suite,Software,Enterprise,Referral,3,150000,0.16,378000.0
+DL1484,2024-06-19,2024-06,Q2,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD008,Network Setup,Hardware,Enterprise,Partner,3,95000,0.16,239400.0
+DL1485,2024-06-17,2024-06,Q2,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD002,Payroll Manager,Software,Enterprise,Direct,4,85000,0.15,289000.0
+DL1486,2024-07-23,2024-07,Q3,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD002,Payroll Manager,Software,Startup,Inbound,2,85000,0.05,161500.0
+DL1487,2024-07-03,2024-07,Q3,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD004,Cloud Hosting,Cloud,Government,Inbound,2,45000,0.07,83700.0
+DL1488,2024-07-09,2024-07,Q3,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD002,Payroll Manager,Software,SME,Partner,1,85000,0.14,73100.0
+DL1489,2024-07-21,2024-07,Q3,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD006,Cybersecurity Pkg,Services,Enterprise,Partner,5,200000,0.06,940000.0
+DL1490,2024-07-02,2024-07,Q3,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD006,Cybersecurity Pkg,Services,Government,Inbound,4,200000,0.06,752000.0
+DL1491,2024-08-19,2024-08,Q3,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD007,POS Terminal,Hardware,Startup,Direct,3,75000,0.09,204800.0
+DL1492,2024-08-09,2024-08,Q3,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD003,Data Backup Pro,Cloud,Government,Partner,5,60000,0.15,255000.0
+DL1493,2024-08-04,2024-08,Q3,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD006,Cybersecurity Pkg,Services,Government,Referral,4,200000,0.17,664000.0
+DL1494,2024-08-22,2024-08,Q3,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD003,Data Backup Pro,Cloud,Startup,Direct,4,60000,0.15,204000.0
+DL1495,2024-08-04,2024-08,Q3,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD003,Data Backup Pro,Cloud,Startup,Inbound,5,60000,0.09,273000.0
+DL1496,2024-08-16,2024-08,Q3,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD007,POS Terminal,Hardware,Startup,Direct,5,75000,0.16,315000.0
+DL1497,2024-09-14,2024-09,Q3,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD008,Network Setup,Hardware,SME,Inbound,2,95000,0.19,153900.0
+DL1498,2024-09-16,2024-09,Q3,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD004,Cloud Hosting,Cloud,Enterprise,Partner,5,45000,0.07,209200.0
+DL1499,2024-09-24,2024-09,Q3,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD004,Cloud Hosting,Cloud,Enterprise,Referral,4,45000,0.09,163800.0
+DL1500,2024-09-04,2024-09,Q3,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD007,POS Terminal,Hardware,SME,Partner,5,75000,0.13,326200.0
+DL1501,2024-09-23,2024-09,Q3,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD007,POS Terminal,Hardware,SME,Referral,2,75000,0.19,121500.0
+DL1502,2024-10-24,2024-10,Q4,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD001,CRM Suite,Software,Startup,Partner,3,150000,0.07,418500.0
+DL1503,2024-10-17,2024-10,Q4,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD003,Data Backup Pro,Cloud,Startup,Inbound,5,60000,0.12,264000.0
+DL1504,2024-10-15,2024-10,Q4,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD006,Cybersecurity Pkg,Services,Startup,Direct,5,200000,0.08,920000.0
+DL1505,2024-10-13,2024-10,Q4,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD001,CRM Suite,Software,Enterprise,Partner,2,150000,0.06,282000.0
+DL1506,2024-10-12,2024-10,Q4,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD006,Cybersecurity Pkg,Services,Startup,Partner,5,200000,0.16,840000.0
+DL1507,2024-11-07,2024-11,Q4,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD008,Network Setup,Hardware,Enterprise,Referral,1,95000,0.1,85500.0
+DL1508,2024-11-12,2024-11,Q4,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD005,IT Support Plan,Services,Government,Referral,3,120000,0.14,309600.0
+DL1509,2024-11-23,2024-11,Q4,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD005,IT Support Plan,Services,Startup,Partner,3,120000,0.13,313200.0
+DL1510,2024-11-21,2024-11,Q4,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD006,Cybersecurity Pkg,Services,Startup,Inbound,4,200000,0.16,672000.0
+DL1511,2024-11-09,2024-11,Q4,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD005,IT Support Plan,Services,Government,Referral,3,120000,0.09,327600.0
+DL1512,2024-12-12,2024-12,Q4,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD007,POS Terminal,Hardware,Government,Referral,1,75000,0.12,66000.0
+DL1513,2024-12-16,2024-12,Q4,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD007,POS Terminal,Hardware,Enterprise,Referral,3,75000,0.09,204800.0
+DL1514,2024-12-01,2024-12,Q4,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD004,Cloud Hosting,Cloud,Government,Partner,4,45000,0.2,144000.0
+DL1515,2024-12-20,2024-12,Q4,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD001,CRM Suite,Software,SME,Partner,5,150000,0.11,667500.0
+DL1516,2024-12-05,2024-12,Q4,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD002,Payroll Manager,Software,SME,Inbound,3,85000,0.19,206600.0
+DL1517,2024-12-01,2024-12,Q4,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD003,Data Backup Pro,Cloud,Government,Direct,1,60000,0.13,52200.0
+DL1518,2024-12-15,2024-12,Q4,REP008,Chisom Eze,Port Harcourt,Enterprise,PRD002,Payroll Manager,Software,Government,Inbound,1,85000,0.17,70600.0
+DL1519,2024-01-07,2024-01,Q1,REP009,Rasheed Kareem,Lagos,Enterprise,PRD005,IT Support Plan,Services,Government,Inbound,4,120000,0.19,388800.0
+DL1520,2024-01-23,2024-01,Q1,REP009,Rasheed Kareem,Lagos,Enterprise,PRD002,Payroll Manager,Software,Enterprise,Inbound,4,85000,0.16,285600.0
+DL1521,2024-01-20,2024-01,Q1,REP009,Rasheed Kareem,Lagos,Enterprise,PRD005,IT Support Plan,Services,Government,Referral,5,120000,0.14,516000.0
+DL1522,2024-01-13,2024-01,Q1,REP009,Rasheed Kareem,Lagos,Enterprise,PRD008,Network Setup,Hardware,Startup,Direct,1,95000,0.19,77000.0
+DL1523,2024-01-08,2024-01,Q1,REP009,Rasheed Kareem,Lagos,Enterprise,PRD004,Cloud Hosting,Cloud,SME,Inbound,1,45000,0.09,41000.0
+DL1524,2024-02-01,2024-02,Q1,REP009,Rasheed Kareem,Lagos,Enterprise,PRD004,Cloud Hosting,Cloud,Government,Partner,5,45000,0.13,195800.0
+DL1525,2024-02-08,2024-02,Q1,REP009,Rasheed Kareem,Lagos,Enterprise,PRD002,Payroll Manager,Software,Startup,Partner,5,85000,0.17,352800.0
+DL1526,2024-02-27,2024-02,Q1,REP009,Rasheed Kareem,Lagos,Enterprise,PRD003,Data Backup Pro,Cloud,SME,Direct,3,60000,0.08,165600.0
+DL1527,2024-03-11,2024-03,Q1,REP009,Rasheed Kareem,Lagos,Enterprise,PRD003,Data Backup Pro,Cloud,Government,Partner,5,60000,0.13,261000.0
+DL1528,2024-03-03,2024-03,Q1,REP009,Rasheed Kareem,Lagos,Enterprise,PRD005,IT Support Plan,Services,SME,Inbound,1,120000,0.13,104400.0
+DL1529,2024-03-03,2024-03,Q1,REP009,Rasheed Kareem,Lagos,Enterprise,PRD007,POS Terminal,Hardware,Enterprise,Referral,5,75000,0.2,300000.0
+DL1530,2024-03-22,2024-03,Q1,REP009,Rasheed Kareem,Lagos,Enterprise,PRD004,Cloud Hosting,Cloud,SME,Referral,5,45000,0.16,189000.0
+DL1531,2024-03-01,2024-03,Q1,REP009,Rasheed Kareem,Lagos,Enterprise,PRD008,Network Setup,Hardware,Startup,Partner,3,95000,0.19,230900.0
+DL1532,2024-04-14,2024-04,Q2,REP009,Rasheed Kareem,Lagos,Enterprise,PRD006,Cybersecurity Pkg,Services,Government,Referral,3,200000,0.08,552000.0
+DL1533,2024-04-07,2024-04,Q2,REP009,Rasheed Kareem,Lagos,Enterprise,PRD006,Cybersecurity Pkg,Services,Enterprise,Partner,2,200000,0.18,328000.0
+DL1534,2024-04-11,2024-04,Q2,REP009,Rasheed Kareem,Lagos,Enterprise,PRD006,Cybersecurity Pkg,Services,SME,Inbound,1,200000,0.13,174000.0
+DL1535,2024-04-10,2024-04,Q2,REP009,Rasheed Kareem,Lagos,Enterprise,PRD008,Network Setup,Hardware,SME,Partner,3,95000,0.1,256500.0
+DL1536,2024-05-15,2024-05,Q2,REP009,Rasheed Kareem,Lagos,Enterprise,PRD002,Payroll Manager,Software,Government,Inbound,5,85000,0.07,395200.0
+DL1537,2024-05-22,2024-05,Q2,REP009,Rasheed Kareem,Lagos,Enterprise,PRD008,Network Setup,Hardware,SME,Partner,2,95000,0.15,161500.0
+DL1538,2024-05-01,2024-05,Q2,REP009,Rasheed Kareem,Lagos,Enterprise,PRD007,POS Terminal,Hardware,SME,Inbound,2,75000,0.06,141000.0
+DL1539,2024-05-03,2024-05,Q2,REP009,Rasheed Kareem,Lagos,Enterprise,PRD005,IT Support Plan,Services,Government,Inbound,3,120000,0.08,331200.0
+DL1540,2024-05-01,2024-05,Q2,REP009,Rasheed Kareem,Lagos,Enterprise,PRD008,Network Setup,Hardware,SME,Inbound,2,95000,0.2,152000.0
+DL1541,2024-05-23,2024-05,Q2,REP009,Rasheed Kareem,Lagos,Enterprise,PRD008,Network Setup,Hardware,SME,Partner,2,95000,0.07,176700.0
+DL1542,2024-05-01,2024-05,Q2,REP009,Rasheed Kareem,Lagos,Enterprise,PRD005,IT Support Plan,Services,SME,Inbound,3,120000,0.15,306000.0
+DL1543,2024-05-26,2024-05,Q2,REP009,Rasheed Kareem,Lagos,Enterprise,PRD005,IT Support Plan,Services,Startup,Referral,5,120000,0.17,498000.0
+DL1544,2024-06-04,2024-06,Q2,REP009,Rasheed Kareem,Lagos,Enterprise,PRD007,POS Terminal,Hardware,Government,Partner,1,75000,0.05,71200.0
+DL1545,2024-06-08,2024-06,Q2,REP009,Rasheed Kareem,Lagos,Enterprise,PRD001,CRM Suite,Software,Startup,Referral,3,150000,0.14,387000.0
+DL1546,2024-06-20,2024-06,Q2,REP009,Rasheed Kareem,Lagos,Enterprise,PRD004,Cloud Hosting,Cloud,Government,Referral,5,45000,0.17,186800.0
+DL1547,2024-06-09,2024-06,Q2,REP009,Rasheed Kareem,Lagos,Enterprise,PRD008,Network Setup,Hardware,Startup,Inbound,1,95000,0.09,86400.0
+DL1548,2024-06-12,2024-06,Q2,REP009,Rasheed Kareem,Lagos,Enterprise,PRD008,Network Setup,Hardware,Government,Direct,1,95000,0.08,87400.0
+DL1549,2024-06-04,2024-06,Q2,REP009,Rasheed Kareem,Lagos,Enterprise,PRD001,CRM Suite,Software,Startup,Inbound,5,150000,0.16,630000.0
+DL1550,2024-07-02,2024-07,Q3,REP009,Rasheed Kareem,Lagos,Enterprise,PRD001,CRM Suite,Software,Enterprise,Inbound,2,150000,0.08,276000.0
+DL1551,2024-07-17,2024-07,Q3,REP009,Rasheed Kareem,Lagos,Enterprise,PRD002,Payroll Manager,Software,Enterprise,Referral,1,85000,0.06,79900.0
+DL1552,2024-07-23,2024-07,Q3,REP009,Rasheed Kareem,Lagos,Enterprise,PRD007,POS Terminal,Hardware,Startup,Direct,3,75000,0.19,182200.0
+DL1553,2024-07-18,2024-07,Q3,REP009,Rasheed Kareem,Lagos,Enterprise,PRD006,Cybersecurity Pkg,Services,SME,Partner,2,200000,0.09,364000.0
+DL1554,2024-07-01,2024-07,Q3,REP009,Rasheed Kareem,Lagos,Enterprise,PRD007,POS Terminal,Hardware,SME,Referral,4,75000,0.18,246000.0
+DL1555,2024-07-12,2024-07,Q3,REP009,Rasheed Kareem,Lagos,Enterprise,PRD003,Data Backup Pro,Cloud,Government,Referral,1,60000,0.1,54000.0
+DL1556,2024-07-24,2024-07,Q3,REP009,Rasheed Kareem,Lagos,Enterprise,PRD008,Network Setup,Hardware,Enterprise,Inbound,3,95000,0.08,262200.0
+DL1557,2024-07-09,2024-07,Q3,REP009,Rasheed Kareem,Lagos,Enterprise,PRD005,IT Support Plan,Services,Government,Direct,2,120000,0.18,196800.0
+DL1558,2024-08-13,2024-08,Q3,REP009,Rasheed Kareem,Lagos,Enterprise,PRD008,Network Setup,Hardware,Enterprise,Direct,2,95000,0.1,171000.0
+DL1559,2024-08-03,2024-08,Q3,REP009,Rasheed Kareem,Lagos,Enterprise,PRD005,IT Support Plan,Services,Enterprise,Inbound,3,120000,0.12,316800.0
+DL1560,2024-08-07,2024-08,Q3,REP009,Rasheed Kareem,Lagos,Enterprise,PRD008,Network Setup,Hardware,Government,Direct,3,95000,0.12,250800.0
+DL1561,2024-08-22,2024-08,Q3,REP009,Rasheed Kareem,Lagos,Enterprise,PRD003,Data Backup Pro,Cloud,Startup,Direct,4,60000,0.15,204000.0
+DL1562,2024-08-08,2024-08,Q3,REP009,Rasheed Kareem,Lagos,Enterprise,PRD001,CRM Suite,Software,Government,Inbound,5,150000,0.07,697500.0
+DL1563,2024-08-09,2024-08,Q3,REP009,Rasheed Kareem,Lagos,Enterprise,PRD004,Cloud Hosting,Cloud,Enterprise,Direct,1,45000,0.05,42800.0
+DL1564,2024-09-24,2024-09,Q3,REP009,Rasheed Kareem,Lagos,Enterprise,PRD004,Cloud Hosting,Cloud,Startup,Partner,2,45000,0.09,81900.0
+DL1565,2024-09-16,2024-09,Q3,REP009,Rasheed Kareem,Lagos,Enterprise,PRD005,IT Support Plan,Services,Enterprise,Inbound,4,120000,0.07,446400.0
+DL1566,2024-09-01,2024-09,Q3,REP009,Rasheed Kareem,Lagos,Enterprise,PRD005,IT Support Plan,Services,Government,Partner,2,120000,0.07,223200.0
+DL1567,2024-09-12,2024-09,Q3,REP009,Rasheed Kareem,Lagos,Enterprise,PRD001,CRM Suite,Software,SME,Inbound,4,150000,0.13,522000.0
+DL1568,2024-09-06,2024-09,Q3,REP009,Rasheed Kareem,Lagos,Enterprise,PRD004,Cloud Hosting,Cloud,Enterprise,Direct,3,45000,0.12,118800.0
+DL1569,2024-09-24,2024-09,Q3,REP009,Rasheed Kareem,Lagos,Enterprise,PRD003,Data Backup Pro,Cloud,SME,Inbound,2,60000,0.12,105600.0
+DL1570,2024-09-24,2024-09,Q3,REP009,Rasheed Kareem,Lagos,Enterprise,PRD002,Payroll Manager,Software,Enterprise,Referral,2,85000,0.08,156400.0
+DL1571,2024-10-17,2024-10,Q4,REP009,Rasheed Kareem,Lagos,Enterprise,PRD003,Data Backup Pro,Cloud,Government,Referral,3,60000,0.07,167400.0
+DL1572,2024-10-28,2024-10,Q4,REP009,Rasheed Kareem,Lagos,Enterprise,PRD006,Cybersecurity Pkg,Services,Government,Direct,5,200000,0.15,850000.0
+DL1573,2024-10-07,2024-10,Q4,REP009,Rasheed Kareem,Lagos,Enterprise,PRD005,IT Support Plan,Services,SME,Partner,3,120000,0.13,313200.0
+DL1574,2024-10-08,2024-10,Q4,REP009,Rasheed Kareem,Lagos,Enterprise,PRD006,Cybersecurity Pkg,Services,Startup,Partner,2,200000,0.15,340000.0
+DL1575,2024-10-13,2024-10,Q4,REP009,Rasheed Kareem,Lagos,Enterprise,PRD005,IT Support Plan,Services,Startup,Inbound,4,120000,0.12,422400.0
+DL1576,2024-10-16,2024-10,Q4,REP009,Rasheed Kareem,Lagos,Enterprise,PRD008,Network Setup,Hardware,SME,Direct,2,95000,0.14,163400.0
+DL1577,2024-10-28,2024-10,Q4,REP009,Rasheed Kareem,Lagos,Enterprise,PRD007,POS Terminal,Hardware,SME,Inbound,2,75000,0.08,138000.0
+DL1578,2024-11-09,2024-11,Q4,REP009,Rasheed Kareem,Lagos,Enterprise,PRD001,CRM Suite,Software,Startup,Direct,2,150000,0.19,243000.0
+DL1579,2024-11-20,2024-11,Q4,REP009,Rasheed Kareem,Lagos,Enterprise,PRD008,Network Setup,Hardware,SME,Inbound,5,95000,0.14,408500.0
+DL1580,2024-11-04,2024-11,Q4,REP009,Rasheed Kareem,Lagos,Enterprise,PRD008,Network Setup,Hardware,SME,Partner,4,95000,0.2,304000.0
+DL1581,2024-11-20,2024-11,Q4,REP009,Rasheed Kareem,Lagos,Enterprise,PRD003,Data Backup Pro,Cloud,Government,Inbound,5,60000,0.12,264000.0
+DL1582,2024-11-14,2024-11,Q4,REP009,Rasheed Kareem,Lagos,Enterprise,PRD005,IT Support Plan,Services,SME,Partner,3,120000,0.1,324000.0
+DL1583,2024-11-28,2024-11,Q4,REP009,Rasheed Kareem,Lagos,Enterprise,PRD007,POS Terminal,Hardware,Enterprise,Direct,2,75000,0.09,136500.0
+DL1584,2024-11-02,2024-11,Q4,REP009,Rasheed Kareem,Lagos,Enterprise,PRD005,IT Support Plan,Services,Government,Referral,4,120000,0.12,422400.0
+DL1585,2024-12-07,2024-12,Q4,REP009,Rasheed Kareem,Lagos,Enterprise,PRD001,CRM Suite,Software,Enterprise,Inbound,2,150000,0.19,243000.0
+DL1586,2024-12-24,2024-12,Q4,REP009,Rasheed Kareem,Lagos,Enterprise,PRD006,Cybersecurity Pkg,Services,SME,Direct,4,200000,0.07,744000.0
+DL1587,2024-01-11,2024-01,Q1,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD006,Cybersecurity Pkg,Services,Enterprise,Partner,1,200000,0.08,184000.0
+DL1588,2024-01-11,2024-01,Q1,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD001,CRM Suite,Software,Startup,Inbound,2,150000,0.18,246000.0
+DL1589,2024-01-03,2024-01,Q1,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD006,Cybersecurity Pkg,Services,Government,Direct,5,200000,0.18,820000.0
+DL1590,2024-01-15,2024-01,Q1,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD006,Cybersecurity Pkg,Services,SME,Inbound,5,200000,0.1,900000.0
+DL1591,2024-01-16,2024-01,Q1,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD004,Cloud Hosting,Cloud,Startup,Partner,1,45000,0.19,36400.0
+DL1592,2024-01-16,2024-01,Q1,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD008,Network Setup,Hardware,Startup,Partner,3,95000,0.12,250800.0
+DL1593,2024-02-08,2024-02,Q1,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD004,Cloud Hosting,Cloud,SME,Inbound,2,45000,0.18,73800.0
+DL1594,2024-02-26,2024-02,Q1,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD007,POS Terminal,Hardware,Startup,Inbound,3,75000,0.07,209200.0
+DL1595,2024-02-12,2024-02,Q1,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD005,IT Support Plan,Services,Enterprise,Partner,2,120000,0.05,228000.0
+DL1596,2024-02-26,2024-02,Q1,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD002,Payroll Manager,Software,Government,Direct,2,85000,0.17,141100.0
+DL1597,2024-02-02,2024-02,Q1,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD003,Data Backup Pro,Cloud,SME,Referral,2,60000,0.05,114000.0
+DL1598,2024-02-24,2024-02,Q1,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD007,POS Terminal,Hardware,Enterprise,Partner,1,75000,0.07,69800.0
+DL1599,2024-02-03,2024-02,Q1,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD008,Network Setup,Hardware,SME,Referral,5,95000,0.1,427500.0
+DL1600,2024-02-02,2024-02,Q1,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD007,POS Terminal,Hardware,Startup,Referral,3,75000,0.05,213800.0
+DL1601,2024-03-18,2024-03,Q1,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD005,IT Support Plan,Services,Enterprise,Inbound,4,120000,0.12,422400.0
+DL1602,2024-03-22,2024-03,Q1,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD007,POS Terminal,Hardware,Government,Referral,5,75000,0.08,345000.0
+DL1603,2024-03-10,2024-03,Q1,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD006,Cybersecurity Pkg,Services,Startup,Partner,2,200000,0.09,364000.0
+DL1604,2024-03-26,2024-03,Q1,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD004,Cloud Hosting,Cloud,Government,Inbound,5,45000,0.14,193500.0
+DL1605,2024-03-19,2024-03,Q1,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD003,Data Backup Pro,Cloud,Enterprise,Partner,1,60000,0.19,48600.0
+DL1606,2024-03-08,2024-03,Q1,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD005,IT Support Plan,Services,SME,Referral,2,120000,0.1,216000.0
+DL1607,2024-04-25,2024-04,Q2,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD006,Cybersecurity Pkg,Services,Enterprise,Inbound,2,200000,0.16,336000.0
+DL1608,2024-04-01,2024-04,Q2,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD006,Cybersecurity Pkg,Services,SME,Referral,5,200000,0.08,920000.0
+DL1609,2024-04-21,2024-04,Q2,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD004,Cloud Hosting,Cloud,Startup,Referral,4,45000,0.15,153000.0
+DL1610,2024-04-18,2024-04,Q2,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD003,Data Backup Pro,Cloud,SME,Partner,3,60000,0.07,167400.0
+DL1611,2024-04-07,2024-04,Q2,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD005,IT Support Plan,Services,Startup,Partner,5,120000,0.16,504000.0
+DL1612,2024-04-04,2024-04,Q2,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD008,Network Setup,Hardware,Startup,Direct,4,95000,0.13,330600.0
+DL1613,2024-04-07,2024-04,Q2,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD007,POS Terminal,Hardware,Startup,Referral,4,75000,0.2,240000.0
+DL1614,2024-04-22,2024-04,Q2,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD002,Payroll Manager,Software,Enterprise,Partner,4,85000,0.14,292400.0
+DL1615,2024-05-26,2024-05,Q2,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD004,Cloud Hosting,Cloud,Startup,Partner,1,45000,0.15,38200.0
+DL1616,2024-05-12,2024-05,Q2,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD004,Cloud Hosting,Cloud,Government,Referral,4,45000,0.19,145800.0
+DL1617,2024-05-09,2024-05,Q2,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD008,Network Setup,Hardware,SME,Partner,2,95000,0.06,178600.0
+DL1618,2024-05-01,2024-05,Q2,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD003,Data Backup Pro,Cloud,SME,Referral,2,60000,0.19,97200.0
+DL1619,2024-05-03,2024-05,Q2,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD004,Cloud Hosting,Cloud,Government,Partner,3,45000,0.17,112000.0
+DL1620,2024-06-15,2024-06,Q2,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD007,POS Terminal,Hardware,Government,Direct,1,75000,0.12,66000.0
+DL1621,2024-06-07,2024-06,Q2,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD005,IT Support Plan,Services,SME,Referral,4,120000,0.06,451200.0
+DL1622,2024-06-16,2024-06,Q2,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD002,Payroll Manager,Software,Enterprise,Partner,3,85000,0.17,211600.0
+DL1623,2024-06-28,2024-06,Q2,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD004,Cloud Hosting,Cloud,Startup,Referral,2,45000,0.19,72900.0
+DL1624,2024-06-07,2024-06,Q2,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD003,Data Backup Pro,Cloud,Enterprise,Partner,2,60000,0.06,112800.0
+DL1625,2024-07-11,2024-07,Q3,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD006,Cybersecurity Pkg,Services,SME,Direct,2,200000,0.13,348000.0
+DL1626,2024-07-06,2024-07,Q3,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD005,IT Support Plan,Services,Enterprise,Direct,3,120000,0.17,298800.0
+DL1627,2024-07-04,2024-07,Q3,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD003,Data Backup Pro,Cloud,Startup,Partner,4,60000,0.08,220800.0
+DL1628,2024-07-12,2024-07,Q3,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD006,Cybersecurity Pkg,Services,Enterprise,Referral,1,200000,0.1,180000.0
+DL1629,2024-07-04,2024-07,Q3,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD003,Data Backup Pro,Cloud,SME,Referral,4,60000,0.09,218400.0
+DL1630,2024-07-08,2024-07,Q3,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD003,Data Backup Pro,Cloud,SME,Partner,3,60000,0.12,158400.0
+DL1631,2024-07-07,2024-07,Q3,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD004,Cloud Hosting,Cloud,Startup,Direct,5,45000,0.1,202500.0
+DL1632,2024-08-28,2024-08,Q3,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD003,Data Backup Pro,Cloud,Government,Partner,5,60000,0.18,246000.0
+DL1633,2024-08-11,2024-08,Q3,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD004,Cloud Hosting,Cloud,Startup,Partner,4,45000,0.07,167400.0
+DL1634,2024-08-26,2024-08,Q3,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD007,POS Terminal,Hardware,Startup,Inbound,1,75000,0.11,66800.0
+DL1635,2024-09-02,2024-09,Q3,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD008,Network Setup,Hardware,Enterprise,Partner,5,95000,0.19,384800.0
+DL1636,2024-09-10,2024-09,Q3,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD003,Data Backup Pro,Cloud,Enterprise,Referral,4,60000,0.09,218400.0
+DL1637,2024-09-12,2024-09,Q3,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD006,Cybersecurity Pkg,Services,Government,Referral,1,200000,0.08,184000.0
+DL1638,2024-09-03,2024-09,Q3,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD006,Cybersecurity Pkg,Services,Startup,Direct,5,200000,0.08,920000.0
+DL1639,2024-09-24,2024-09,Q3,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD003,Data Backup Pro,Cloud,Government,Inbound,2,60000,0.13,104400.0
+DL1640,2024-09-19,2024-09,Q3,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD008,Network Setup,Hardware,SME,Referral,2,95000,0.14,163400.0
+DL1641,2024-09-07,2024-09,Q3,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD005,IT Support Plan,Services,Enterprise,Referral,3,120000,0.17,298800.0
+DL1642,2024-09-17,2024-09,Q3,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD005,IT Support Plan,Services,Startup,Partner,5,120000,0.13,522000.0
+DL1643,2024-09-23,2024-09,Q3,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD002,Payroll Manager,Software,Government,Direct,4,85000,0.15,289000.0
+DL1644,2024-10-08,2024-10,Q4,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD006,Cybersecurity Pkg,Services,Enterprise,Inbound,5,200000,0.16,840000.0
+DL1645,2024-10-14,2024-10,Q4,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD008,Network Setup,Hardware,Enterprise,Partner,5,95000,0.08,437000.0
+DL1646,2024-10-14,2024-10,Q4,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD007,POS Terminal,Hardware,SME,Referral,5,75000,0.17,311200.0
+DL1647,2024-10-10,2024-10,Q4,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD002,Payroll Manager,Software,Enterprise,Partner,2,85000,0.17,141100.0
+DL1648,2024-10-13,2024-10,Q4,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD007,POS Terminal,Hardware,Enterprise,Inbound,2,75000,0.06,141000.0
+DL1649,2024-11-24,2024-11,Q4,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD003,Data Backup Pro,Cloud,Government,Referral,1,60000,0.19,48600.0
+DL1650,2024-11-24,2024-11,Q4,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD006,Cybersecurity Pkg,Services,SME,Referral,3,200000,0.17,498000.0
+DL1651,2024-11-13,2024-11,Q4,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD007,POS Terminal,Hardware,Startup,Inbound,3,75000,0.13,195800.0
+DL1652,2024-11-01,2024-11,Q4,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD005,IT Support Plan,Services,Startup,Partner,1,120000,0.16,100800.0
+DL1653,2024-11-18,2024-11,Q4,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD005,IT Support Plan,Services,SME,Partner,5,120000,0.08,552000.0
+DL1654,2024-11-21,2024-11,Q4,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD006,Cybersecurity Pkg,Services,Startup,Direct,1,200000,0.11,178000.0
+DL1655,2024-11-04,2024-11,Q4,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD006,Cybersecurity Pkg,Services,SME,Direct,3,200000,0.13,522000.0
+DL1656,2024-11-12,2024-11,Q4,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD006,Cybersecurity Pkg,Services,SME,Direct,5,200000,0.09,910000.0
+DL1657,2024-12-26,2024-12,Q4,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD008,Network Setup,Hardware,Startup,Inbound,3,95000,0.12,250800.0
+DL1658,2024-12-04,2024-12,Q4,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD007,POS Terminal,Hardware,Startup,Direct,3,75000,0.14,193500.0
+DL1659,2024-12-27,2024-12,Q4,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD005,IT Support Plan,Services,Startup,Referral,2,120000,0.11,213600.0
+DL1660,2024-12-13,2024-12,Q4,REP010,Yetunde Afolabi,Abuja,Enterprise,PRD004,Cloud Hosting,Cloud,Government,Referral,2,45000,0.09,81900.0
+DL1661,2024-01-18,2024-01,Q1,REP011,Obinna Okafor,Enugu,SME,PRD007,POS Terminal,Hardware,Government,Direct,1,75000,0.05,71200.0
+DL1662,2024-01-12,2024-01,Q1,REP011,Obinna Okafor,Enugu,SME,PRD003,Data Backup Pro,Cloud,Government,Referral,3,60000,0.03,174600.0
+DL1663,2024-01-12,2024-01,Q1,REP011,Obinna Okafor,Enugu,SME,PRD001,CRM Suite,Software,Startup,Direct,4,150000,0.1,540000.0
+DL1664,2024-01-01,2024-01,Q1,REP011,Obinna Okafor,Enugu,SME,PRD004,Cloud Hosting,Cloud,Enterprise,Direct,3,45000,0.0,135000.0
+DL1665,2024-01-26,2024-01,Q1,REP011,Obinna Okafor,Enugu,SME,PRD005,IT Support Plan,Services,Government,Partner,5,120000,0.11,534000.0
+DL1666,2024-01-23,2024-01,Q1,REP011,Obinna Okafor,Enugu,SME,PRD006,Cybersecurity Pkg,Services,Government,Referral,2,200000,0.1,360000.0
+DL1667,2024-01-11,2024-01,Q1,REP011,Obinna Okafor,Enugu,SME,PRD008,Network Setup,Hardware,SME,Direct,1,95000,0.09,86400.0
+DL1668,2024-02-12,2024-02,Q1,REP011,Obinna Okafor,Enugu,SME,PRD002,Payroll Manager,Software,SME,Referral,3,85000,0.03,247400.0
+DL1669,2024-02-06,2024-02,Q1,REP011,Obinna Okafor,Enugu,SME,PRD002,Payroll Manager,Software,Government,Inbound,2,85000,0.01,168300.0
+DL1670,2024-02-27,2024-02,Q1,REP011,Obinna Okafor,Enugu,SME,PRD005,IT Support Plan,Services,Government,Direct,3,120000,0.02,352800.0
+DL1671,2024-02-15,2024-02,Q1,REP011,Obinna Okafor,Enugu,SME,PRD004,Cloud Hosting,Cloud,Startup,Direct,3,45000,0.12,118800.0
+DL1672,2024-02-17,2024-02,Q1,REP011,Obinna Okafor,Enugu,SME,PRD005,IT Support Plan,Services,Enterprise,Referral,2,120000,0.07,223200.0
+DL1673,2024-03-04,2024-03,Q1,REP011,Obinna Okafor,Enugu,SME,PRD007,POS Terminal,Hardware,Startup,Referral,4,75000,0.02,294000.0
+DL1674,2024-03-22,2024-03,Q1,REP011,Obinna Okafor,Enugu,SME,PRD003,Data Backup Pro,Cloud,Startup,Referral,5,60000,0.12,264000.0
+DL1675,2024-04-20,2024-04,Q2,REP011,Obinna Okafor,Enugu,SME,PRD005,IT Support Plan,Services,Startup,Direct,2,120000,0.02,235200.0
+DL1676,2024-04-05,2024-04,Q2,REP011,Obinna Okafor,Enugu,SME,PRD001,CRM Suite,Software,Startup,Referral,5,150000,0.06,705000.0
+DL1677,2024-04-26,2024-04,Q2,REP011,Obinna Okafor,Enugu,SME,PRD004,Cloud Hosting,Cloud,Enterprise,Partner,5,45000,0.01,222800.0
+DL1678,2024-04-14,2024-04,Q2,REP011,Obinna Okafor,Enugu,SME,PRD008,Network Setup,Hardware,Government,Inbound,3,95000,0.01,282200.0
+DL1679,2024-04-20,2024-04,Q2,REP011,Obinna Okafor,Enugu,SME,PRD001,CRM Suite,Software,Enterprise,Partner,2,150000,0.03,291000.0
+DL1680,2024-05-05,2024-05,Q2,REP011,Obinna Okafor,Enugu,SME,PRD006,Cybersecurity Pkg,Services,Startup,Direct,2,200000,0.02,392000.0
+DL1681,2024-05-01,2024-05,Q2,REP011,Obinna Okafor,Enugu,SME,PRD006,Cybersecurity Pkg,Services,Enterprise,Partner,5,200000,0.01,990000.0
+DL1682,2024-05-04,2024-05,Q2,REP011,Obinna Okafor,Enugu,SME,PRD004,Cloud Hosting,Cloud,Enterprise,Referral,3,45000,0.02,132300.0
+DL1683,2024-05-21,2024-05,Q2,REP011,Obinna Okafor,Enugu,SME,PRD007,POS Terminal,Hardware,Enterprise,Direct,2,75000,0.12,132000.0
+DL1684,2024-05-18,2024-05,Q2,REP011,Obinna Okafor,Enugu,SME,PRD008,Network Setup,Hardware,Startup,Inbound,5,95000,0.09,432200.0
+DL1685,2024-06-07,2024-06,Q2,REP011,Obinna Okafor,Enugu,SME,PRD004,Cloud Hosting,Cloud,Government,Referral,3,45000,0.04,129600.0
+DL1686,2024-06-26,2024-06,Q2,REP011,Obinna Okafor,Enugu,SME,PRD003,Data Backup Pro,Cloud,Enterprise,Partner,1,60000,0.0,60000.0
+DL1687,2024-06-10,2024-06,Q2,REP011,Obinna Okafor,Enugu,SME,PRD002,Payroll Manager,Software,Enterprise,Partner,5,85000,0.11,378200.0
+DL1688,2024-06-23,2024-06,Q2,REP011,Obinna Okafor,Enugu,SME,PRD003,Data Backup Pro,Cloud,Enterprise,Referral,5,60000,0.11,267000.0
+DL1689,2024-06-13,2024-06,Q2,REP011,Obinna Okafor,Enugu,SME,PRD006,Cybersecurity Pkg,Services,Enterprise,Partner,1,200000,0.03,194000.0
+DL1690,2024-06-15,2024-06,Q2,REP011,Obinna Okafor,Enugu,SME,PRD008,Network Setup,Hardware,Startup,Referral,3,95000,0.06,267900.0
+DL1691,2024-07-03,2024-07,Q3,REP011,Obinna Okafor,Enugu,SME,PRD007,POS Terminal,Hardware,Government,Partner,3,75000,0.09,204800.0
+DL1692,2024-07-21,2024-07,Q3,REP011,Obinna Okafor,Enugu,SME,PRD006,Cybersecurity Pkg,Services,SME,Partner,2,200000,0.06,376000.0
+DL1693,2024-07-01,2024-07,Q3,REP011,Obinna Okafor,Enugu,SME,PRD004,Cloud Hosting,Cloud,Startup,Partner,2,45000,0.08,82800.0
+DL1694,2024-07-28,2024-07,Q3,REP011,Obinna Okafor,Enugu,SME,PRD004,Cloud Hosting,Cloud,Enterprise,Referral,1,45000,0.09,41000.0
+DL1695,2024-08-08,2024-08,Q3,REP011,Obinna Okafor,Enugu,SME,PRD004,Cloud Hosting,Cloud,SME,Partner,5,45000,0.06,211500.0
+DL1696,2024-08-17,2024-08,Q3,REP011,Obinna Okafor,Enugu,SME,PRD008,Network Setup,Hardware,Startup,Partner,4,95000,0.07,353400.0
+DL1697,2024-08-06,2024-08,Q3,REP011,Obinna Okafor,Enugu,SME,PRD006,Cybersecurity Pkg,Services,Startup,Referral,3,200000,0.12,528000.0
+DL1698,2024-08-16,2024-08,Q3,REP011,Obinna Okafor,Enugu,SME,PRD003,Data Backup Pro,Cloud,SME,Referral,4,60000,0.1,216000.0
+DL1699,2024-08-11,2024-08,Q3,REP011,Obinna Okafor,Enugu,SME,PRD002,Payroll Manager,Software,Government,Partner,2,85000,0.05,161500.0
+DL1700,2024-08-04,2024-08,Q3,REP011,Obinna Okafor,Enugu,SME,PRD008,Network Setup,Hardware,Enterprise,Referral,2,95000,0.01,188100.0
+DL1701,2024-08-10,2024-08,Q3,REP011,Obinna Okafor,Enugu,SME,PRD004,Cloud Hosting,Cloud,Enterprise,Partner,2,45000,0.05,85500.0
+DL1702,2024-09-05,2024-09,Q3,REP011,Obinna Okafor,Enugu,SME,PRD003,Data Backup Pro,Cloud,Startup,Referral,3,60000,0.03,174600.0
+DL1703,2024-09-03,2024-09,Q3,REP011,Obinna Okafor,Enugu,SME,PRD002,Payroll Manager,Software,Enterprise,Partner,5,85000,0.04,408000.0
+DL1704,2024-09-14,2024-09,Q3,REP011,Obinna Okafor,Enugu,SME,PRD002,Payroll Manager,Software,SME,Partner,3,85000,0.06,239700.0
+DL1705,2024-09-19,2024-09,Q3,REP011,Obinna Okafor,Enugu,SME,PRD002,Payroll Manager,Software,Enterprise,Referral,2,85000,0.08,156400.0
+DL1706,2024-09-15,2024-09,Q3,REP011,Obinna Okafor,Enugu,SME,PRD008,Network Setup,Hardware,Startup,Referral,3,95000,0.05,270800.0
+DL1707,2024-10-07,2024-10,Q4,REP011,Obinna Okafor,Enugu,SME,PRD007,POS Terminal,Hardware,Government,Direct,1,75000,0.11,66800.0
+DL1708,2024-10-07,2024-10,Q4,REP011,Obinna Okafor,Enugu,SME,PRD008,Network Setup,Hardware,Government,Referral,3,95000,0.02,279300.0
+DL1709,2024-11-11,2024-11,Q4,REP011,Obinna Okafor,Enugu,SME,PRD006,Cybersecurity Pkg,Services,Startup,Referral,4,200000,0.11,712000.0
+DL1710,2024-11-14,2024-11,Q4,REP011,Obinna Okafor,Enugu,SME,PRD005,IT Support Plan,Services,SME,Inbound,1,120000,0.1,108000.0
+DL1711,2024-11-11,2024-11,Q4,REP011,Obinna Okafor,Enugu,SME,PRD006,Cybersecurity Pkg,Services,Government,Partner,3,200000,0.05,570000.0
+DL1712,2024-11-23,2024-11,Q4,REP011,Obinna Okafor,Enugu,SME,PRD005,IT Support Plan,Services,SME,Inbound,2,120000,0.08,220800.0
+DL1713,2024-11-15,2024-11,Q4,REP011,Obinna Okafor,Enugu,SME,PRD006,Cybersecurity Pkg,Services,SME,Partner,5,200000,0.1,900000.0
+DL1714,2024-11-26,2024-11,Q4,REP011,Obinna Okafor,Enugu,SME,PRD001,CRM Suite,Software,SME,Partner,1,150000,0.09,136500.0
+DL1715,2024-11-19,2024-11,Q4,REP011,Obinna Okafor,Enugu,SME,PRD005,IT Support Plan,Services,SME,Partner,5,120000,0.07,558000.0
+DL1716,2024-12-04,2024-12,Q4,REP011,Obinna Okafor,Enugu,SME,PRD007,POS Terminal,Hardware,Government,Partner,5,75000,0.11,333800.0
+DL1717,2024-12-03,2024-12,Q4,REP011,Obinna Okafor,Enugu,SME,PRD008,Network Setup,Hardware,Startup,Partner,1,95000,0.06,89300.0
+DL1718,2024-12-12,2024-12,Q4,REP011,Obinna Okafor,Enugu,SME,PRD007,POS Terminal,Hardware,Enterprise,Partner,5,75000,0.01,371200.0
+DL1719,2024-12-11,2024-12,Q4,REP011,Obinna Okafor,Enugu,SME,PRD005,IT Support Plan,Services,Startup,Referral,2,120000,0.04,230400.0
+DL1720,2024-12-06,2024-12,Q4,REP011,Obinna Okafor,Enugu,SME,PRD001,CRM Suite,Software,Startup,Partner,5,150000,0.0,750000.0
+DL1721,2024-12-28,2024-12,Q4,REP011,Obinna Okafor,Enugu,SME,PRD004,Cloud Hosting,Cloud,Government,Inbound,1,45000,0.12,39600.0
+DL1722,2024-12-19,2024-12,Q4,REP011,Obinna Okafor,Enugu,SME,PRD003,Data Backup Pro,Cloud,SME,Inbound,2,60000,0.07,111600.0
+DL1723,2024-12-25,2024-12,Q4,REP011,Obinna Okafor,Enugu,SME,PRD005,IT Support Plan,Services,Startup,Direct,2,120000,0.06,225600.0
+DL1724,2024-01-26,2024-01,Q1,REP012,Hauwa Musa,Kano,SME,PRD003,Data Backup Pro,Cloud,Startup,Partner,3,60000,0.03,174600.0
+DL1725,2024-01-05,2024-01,Q1,REP012,Hauwa Musa,Kano,SME,PRD006,Cybersecurity Pkg,Services,SME,Partner,1,200000,0.04,192000.0
+DL1726,2024-01-17,2024-01,Q1,REP012,Hauwa Musa,Kano,SME,PRD001,CRM Suite,Software,Enterprise,Direct,3,150000,0.08,414000.0
+DL1727,2024-01-09,2024-01,Q1,REP012,Hauwa Musa,Kano,SME,PRD005,IT Support Plan,Services,SME,Partner,1,120000,0.08,110400.0
+DL1728,2024-01-11,2024-01,Q1,REP012,Hauwa Musa,Kano,SME,PRD008,Network Setup,Hardware,Startup,Referral,4,95000,0.06,357200.0
+DL1729,2024-02-22,2024-02,Q1,REP012,Hauwa Musa,Kano,SME,PRD008,Network Setup,Hardware,Government,Direct,3,95000,0.07,265000.0
+DL1730,2024-02-12,2024-02,Q1,REP012,Hauwa Musa,Kano,SME,PRD007,POS Terminal,Hardware,Enterprise,Direct,5,75000,0.09,341200.0
+DL1731,2024-02-24,2024-02,Q1,REP012,Hauwa Musa,Kano,SME,PRD002,Payroll Manager,Software,Enterprise,Referral,5,85000,0.05,403800.0
+DL1732,2024-02-08,2024-02,Q1,REP012,Hauwa Musa,Kano,SME,PRD005,IT Support Plan,Services,Enterprise,Referral,3,120000,0.01,356400.0
+DL1733,2024-02-10,2024-02,Q1,REP012,Hauwa Musa,Kano,SME,PRD008,Network Setup,Hardware,Government,Partner,4,95000,0.04,364800.0
+DL1734,2024-03-11,2024-03,Q1,REP012,Hauwa Musa,Kano,SME,PRD005,IT Support Plan,Services,Enterprise,Inbound,4,120000,0.09,436800.0
+DL1735,2024-03-17,2024-03,Q1,REP012,Hauwa Musa,Kano,SME,PRD005,IT Support Plan,Services,Enterprise,Referral,2,120000,0.05,228000.0
+DL1736,2024-03-22,2024-03,Q1,REP012,Hauwa Musa,Kano,SME,PRD005,IT Support Plan,Services,Enterprise,Direct,3,120000,0.08,331200.0
+DL1737,2024-03-06,2024-03,Q1,REP012,Hauwa Musa,Kano,SME,PRD005,IT Support Plan,Services,Startup,Inbound,1,120000,0.0,120000.0
+DL1738,2024-04-10,2024-04,Q2,REP012,Hauwa Musa,Kano,SME,PRD007,POS Terminal,Hardware,SME,Partner,3,75000,0.1,202500.0
+DL1739,2024-04-13,2024-04,Q2,REP012,Hauwa Musa,Kano,SME,PRD004,Cloud Hosting,Cloud,Government,Referral,5,45000,0.1,202500.0
+DL1740,2024-04-08,2024-04,Q2,REP012,Hauwa Musa,Kano,SME,PRD007,POS Terminal,Hardware,SME,Referral,5,75000,0.05,356200.0
+DL1741,2024-04-28,2024-04,Q2,REP012,Hauwa Musa,Kano,SME,PRD006,Cybersecurity Pkg,Services,Enterprise,Partner,2,200000,0.04,384000.0
+DL1742,2024-04-27,2024-04,Q2,REP012,Hauwa Musa,Kano,SME,PRD004,Cloud Hosting,Cloud,Enterprise,Inbound,3,45000,0.02,132300.0
+DL1743,2024-04-23,2024-04,Q2,REP012,Hauwa Musa,Kano,SME,PRD005,IT Support Plan,Services,Startup,Partner,1,120000,0.1,108000.0
+DL1744,2024-05-12,2024-05,Q2,REP012,Hauwa Musa,Kano,SME,PRD007,POS Terminal,Hardware,Enterprise,Partner,1,75000,0.02,73500.0
+DL1745,2024-05-20,2024-05,Q2,REP012,Hauwa Musa,Kano,SME,PRD007,POS Terminal,Hardware,Enterprise,Referral,3,75000,0.06,211500.0
+DL1746,2024-05-26,2024-05,Q2,REP012,Hauwa Musa,Kano,SME,PRD002,Payroll Manager,Software,Startup,Direct,3,85000,0.1,229500.0
+DL1747,2024-05-21,2024-05,Q2,REP012,Hauwa Musa,Kano,SME,PRD008,Network Setup,Hardware,Startup,Referral,1,95000,0.1,85500.0
+DL1748,2024-06-05,2024-06,Q2,REP012,Hauwa Musa,Kano,SME,PRD002,Payroll Manager,Software,SME,Referral,2,85000,0.08,156400.0
+DL1749,2024-06-20,2024-06,Q2,REP012,Hauwa Musa,Kano,SME,PRD007,POS Terminal,Hardware,Enterprise,Partner,5,75000,0.08,345000.0
+DL1750,2024-06-05,2024-06,Q2,REP012,Hauwa Musa,Kano,SME,PRD008,Network Setup,Hardware,Government,Inbound,4,95000,0.02,372400.0
+DL1751,2024-06-26,2024-06,Q2,REP012,Hauwa Musa,Kano,SME,PRD003,Data Backup Pro,Cloud,SME,Referral,2,60000,0.11,106800.0
+DL1752,2024-06-13,2024-06,Q2,REP012,Hauwa Musa,Kano,SME,PRD006,Cybersecurity Pkg,Services,Enterprise,Direct,3,200000,0.06,564000.0
+DL1753,2024-06-05,2024-06,Q2,REP012,Hauwa Musa,Kano,SME,PRD001,CRM Suite,Software,Startup,Inbound,2,150000,0.11,267000.0
+DL1754,2024-06-05,2024-06,Q2,REP012,Hauwa Musa,Kano,SME,PRD004,Cloud Hosting,Cloud,Startup,Referral,1,45000,0.04,43200.0
+DL1755,2024-07-03,2024-07,Q3,REP012,Hauwa Musa,Kano,SME,PRD001,CRM Suite,Software,Enterprise,Partner,4,150000,0.05,570000.0
+DL1756,2024-07-07,2024-07,Q3,REP012,Hauwa Musa,Kano,SME,PRD002,Payroll Manager,Software,SME,Direct,5,85000,0.09,386800.0
+DL1757,2024-07-06,2024-07,Q3,REP012,Hauwa Musa,Kano,SME,PRD007,POS Terminal,Hardware,Enterprise,Referral,2,75000,0.09,136500.0
+DL1758,2024-07-23,2024-07,Q3,REP012,Hauwa Musa,Kano,SME,PRD005,IT Support Plan,Services,Startup,Inbound,5,120000,0.06,564000.0
+DL1759,2024-07-15,2024-07,Q3,REP012,Hauwa Musa,Kano,SME,PRD005,IT Support Plan,Services,Government,Partner,3,120000,0.06,338400.0
+DL1760,2024-08-17,2024-08,Q3,REP012,Hauwa Musa,Kano,SME,PRD004,Cloud Hosting,Cloud,Startup,Partner,4,45000,0.12,158400.0
+DL1761,2024-08-12,2024-08,Q3,REP012,Hauwa Musa,Kano,SME,PRD004,Cloud Hosting,Cloud,Startup,Partner,3,45000,0.06,126900.0
+DL1762,2024-08-11,2024-08,Q3,REP012,Hauwa Musa,Kano,SME,PRD005,IT Support Plan,Services,Enterprise,Direct,2,120000,0.1,216000.0
+DL1763,2024-09-23,2024-09,Q3,REP012,Hauwa Musa,Kano,SME,PRD003,Data Backup Pro,Cloud,Startup,Referral,2,60000,0.02,117600.0
+DL1764,2024-09-12,2024-09,Q3,REP012,Hauwa Musa,Kano,SME,PRD004,Cloud Hosting,Cloud,SME,Referral,2,45000,0.07,83700.0
+DL1765,2024-09-01,2024-09,Q3,REP012,Hauwa Musa,Kano,SME,PRD007,POS Terminal,Hardware,Government,Partner,1,75000,0.05,71200.0
+DL1766,2024-09-23,2024-09,Q3,REP012,Hauwa Musa,Kano,SME,PRD001,CRM Suite,Software,Enterprise,Inbound,3,150000,0.04,432000.0
+DL1767,2024-09-03,2024-09,Q3,REP012,Hauwa Musa,Kano,SME,PRD001,CRM Suite,Software,Startup,Referral,5,150000,0.11,667500.0
+DL1768,2024-09-10,2024-09,Q3,REP012,Hauwa Musa,Kano,SME,PRD001,CRM Suite,Software,Government,Referral,4,150000,0.05,570000.0
+DL1769,2024-09-25,2024-09,Q3,REP012,Hauwa Musa,Kano,SME,PRD007,POS Terminal,Hardware,Enterprise,Direct,2,75000,0.06,141000.0
+DL1770,2024-10-01,2024-10,Q4,REP012,Hauwa Musa,Kano,SME,PRD001,CRM Suite,Software,Government,Partner,1,150000,0.09,136500.0
+DL1771,2024-10-10,2024-10,Q4,REP012,Hauwa Musa,Kano,SME,PRD002,Payroll Manager,Software,Government,Partner,3,85000,0.05,242200.0
+DL1772,2024-10-25,2024-10,Q4,REP012,Hauwa Musa,Kano,SME,PRD004,Cloud Hosting,Cloud,Enterprise,Partner,2,45000,0.09,81900.0
+DL1773,2024-10-09,2024-10,Q4,REP012,Hauwa Musa,Kano,SME,PRD002,Payroll Manager,Software,SME,Inbound,4,85000,0.11,302600.0
+DL1774,2024-10-12,2024-10,Q4,REP012,Hauwa Musa,Kano,SME,PRD004,Cloud Hosting,Cloud,Startup,Partner,5,45000,0.01,222800.0
+DL1775,2024-10-14,2024-10,Q4,REP012,Hauwa Musa,Kano,SME,PRD007,POS Terminal,Hardware,SME,Partner,1,75000,0.02,73500.0
+DL1776,2024-11-19,2024-11,Q4,REP012,Hauwa Musa,Kano,SME,PRD006,Cybersecurity Pkg,Services,SME,Inbound,5,200000,0.05,950000.0
+DL1777,2024-11-15,2024-11,Q4,REP012,Hauwa Musa,Kano,SME,PRD003,Data Backup Pro,Cloud,Enterprise,Referral,3,60000,0.11,160200.0
+DL1778,2024-12-15,2024-12,Q4,REP012,Hauwa Musa,Kano,SME,PRD004,Cloud Hosting,Cloud,SME,Inbound,5,45000,0.11,200200.0
+DL1779,2024-12-22,2024-12,Q4,REP012,Hauwa Musa,Kano,SME,PRD003,Data Backup Pro,Cloud,Enterprise,Partner,5,60000,0.05,285000.0
+DL1780,2024-12-28,2024-12,Q4,REP012,Hauwa Musa,Kano,SME,PRD007,POS Terminal,Hardware,Government,Referral,2,75000,0.01,148500.0
+DL1781,2024-12-28,2024-12,Q4,REP012,Hauwa Musa,Kano,SME,PRD005,IT Support Plan,Services,Startup,Referral,5,120000,0.07,558000.0
+DL1782,2024-12-17,2024-12,Q4,REP012,Hauwa Musa,Kano,SME,PRD003,Data Backup Pro,Cloud,SME,Inbound,4,60000,0.09,218400.0
+DL1783,2024-12-08,2024-12,Q4,REP012,Hauwa Musa,Kano,SME,PRD005,IT Support Plan,Services,Enterprise,Partner,2,120000,0.1,216000.0
